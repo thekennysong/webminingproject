@@ -19,25 +19,7 @@ import sys
 
 
 def main():
-    # raw_results  = open('sampleSentOutput.txt', 'w') 
-    # print raw_results
-    # raw_results.close()
-    
-    # a = np.random.multivariate_normal([10, 0], [[3, 1], [1, 4]], size=[100,])
-    # b = np.random.multivariate_normal([0, 20], [[3, 1], [1, 4]], size=[50,])
-    # X = np.concatenate((a, b),)
-    # #print X.shape  # 150 samples with 2 dimensions
-    # # plt.scatter(X[:,0], X[:,1])
-    # # plt.show()
-    # # print X[:,0]
-    # # print X[:,1]
 
-
-    # Z = linkage(X, 'ward')
-
-    # c, coph_dists = cophenet(Z, pdist(X))
-
-    # print Z[:20]
 
 #open the file assuming the data above is in a file called 'dataFile'
     inFile = open(sys.argv[1],'r')
@@ -53,7 +35,7 @@ def main():
 
     #convert native data array into a numpy array
     dataMatrix = np.array(dataMatrix)
-    distanceMatrix = pdist(dataMatrix)
+    distanceMatrix = pdist(dataMatrix,'euclidean')
     linkageMatrix = linkage(distanceMatrix)
 
     heatmapOrder = leaves_list(linkageMatrix)
@@ -79,33 +61,6 @@ def main():
     print 'var data = ' + str(matrixOutput) + ";"
     print 'var cols = ' + str(colHeaders) + ";"
     print 'var rows = ' + str([x for x in orderedRowHeaders]) + ";"
-
-    # with open('out_rating_movies.txt', 'r') as file:
-    #     # x = f.read()
-    #     # x.replace('\n', ' ')
-    #     # print x
-    #     counter = 0 
-       
-    #     convertedList = []
-    #     theList = [l.strip() for l in file]
-    #     for user in theList:
-    #         if(counter > 0):
-    #             converted = user.split("|")
-    #             converted.pop(0)
-    #             converted = [float(i) for i in converted]
-    #             #print(converted)
-    #             converted = array(converted)
-    #             convertedList.append(converted)
-    #             counter = counter + 1
-    #         else:
-    #             template_line = user
-    #             #print template_line
-    #             counter = counter + 1
-                
-    #     convertedList = array(convertedList)
-    #     data = vstack(convertedList)
-
-
 
 
 
