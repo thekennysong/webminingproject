@@ -28,10 +28,16 @@ def main():
     rowHeaders = []
     dataMatrix = []
 
+
+    #print colHeaders
+
     for line in inFile:
+        #print line
         data = line.strip().split("|")
         rowHeaders.append(data[0])
         dataMatrix.append([float(x) for x in data[1:]])
+
+    print dataMatrix
 
     #convert native data array into a numpy array
     dataMatrix = np.array(dataMatrix)

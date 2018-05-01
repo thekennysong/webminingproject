@@ -1,0 +1,58 @@
+Sentiment/Ratings:
+ 
+#This part simply reads in and store the vectors for the users
+UserVectors = {}
+Movies = []
+Read in sentiment or ratings file:
+                Movies = firstLineOfFile.split(‘|’)[1:]
+               
+                For line in file:
+                                user = curLIne.split(‘|’)[0]
+                                UserVectors[user] = curLine.split(‘|’)[1:]  
+                               
+Read in and store folds
+ 
+UserPredictions = {}
+ 
+#This starts the testing, a duplicate of UserVectors is created each time to allow the ground truth copy to remained untouched
+For each fold:
+                curUVs = UserVectors
+ 
+                #for each test user, randomly remove one of the movies they’ve seen and keep track of the movieId and rating they gave it.
+                For each user in current fold:
+                                listOfRatedMovies = []
+                                UserPredictions[curUser] = []
+                                for movie in range(curUVs[curUser]):
+                                                if(float(curUVs[curUser][movie]) != 0.0):
+                                                                listOfRatedMovies.append(movie)
+ 
+                                #choose random movie to remove and note position of movie and original rating                           
+                                removedMovie = randomChoice(listOfRatedMovies)
+                                UserPredictions[curUser].append(removedMovie)
+                                UserPredictions[curUser].append(curUVs[curUser][removedMovie])
+ 
+                                #Once recorded, remove movie from test vectors
+                                curUVs[curUser][removedMovie] = 0.0
+                               
+ 
+ 
+                #Once test user vectors are all changed cluster modified userVectors
+                Cluster(curUVs)
+                …
+                …
+ 
+                #Once clustered, for each test user, go in and make a prediction from their respective clusters (most straightforward way is to find average of all other users in that cluster)
+                For each user in current fold:
+                                movieNeedingPrediction = UserPredictions[curUser][0]
+                                predictedRating = average of all other users’ ratings (in the same cluster) in that position (movieNeedingPrediction)
+                               
+                                #add prediction to user predictions
+                                UserPredictions[curUser].append(predictedRating)
+ 
+ 
+ 
+#After all the folds have clustered and predictions have been made, output to a file. (NOTE: we should not do any evaluations in here, it will better to have output outside of this program that can then be fed into a simple evaluation script. Especially since it will help us analyze the predictions and why it predicted a certain way.
+ 
+For user in UserPredictions:
+                outFile.write(user + “|” + Moves[UserPredictions[user][0]] + “|” + UserPredictions[user][1] + “|” + UserPredictions[user][2] + “\n”)
+                #This will give us an output files formatted as “userId|movieId|originalRating|predictedRating”

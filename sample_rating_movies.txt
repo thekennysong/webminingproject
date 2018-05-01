@@ -1,0 +1,6 @@
+userId|testMovie1|testMovie2|testMovie3
+testUser1|5.0|5.0|4.0
+testUser2|4.0|3.0|5.0
+testUser3|4.0|3.0|5.0
+testUser4|4.0|3.0|5.0
+testUser5|4.0|3.0|5.0
