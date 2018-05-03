@@ -1,7 +1,5 @@
 import sys
 
-# takes as input the path to the original vectors and path to prediction vectors
-
 def main(evaluations, originalVectors):
     error1 = 0.5
     error2 = 0.25
@@ -11,10 +9,6 @@ def main(evaluations, originalVectors):
     goodPredictions3 = 0
     samePolarity = 0
     avgSimilarity = 0.0
-    baseSize = 0
-    f = open(originalVectors, "r", encoding="utf-8")
-    for line in f:
-        baseSize+=1
     for e in evaluations:
         if similarity < error1:
             goodPredictions1 += 1
@@ -25,12 +19,15 @@ def main(evaluations, originalVectors):
         if e[2] == 1:
             samePolarity += 1
         avgSimilarity += e[3]
+    baseSize = 0
+    f = open(originalVectors, "r", encoding="utf-8")
+    for line in f:
+        baseSize+=1
     precision1 = goodPredictions1 / baseSize
     precision2 = goodPredictions2 / baseSize
     precision3 = goodPredictions3 / baseSize
     polaritySimilarity = samePolarity / baseSize
     avgSimilarity = avgSimilarity / len(evaluations)
-
     print("Precision with error bound (0.5): %s" % precision1)
     print("Precision with error bound (0.25): %s" % precision2)
     print("Precision with error bound (0.1): %s" % precision3)
@@ -56,24 +53,24 @@ def evaluation(pVectors):
     return evaluations        
 
 def getVectors(file):
-    userVectors = {}
+    userVectors = []
     movies = {}
     with open(file, "r", encoding="utf-8"):
         i = 0
         for line in file:
-            if i == 0:
-                moves = line.split("|")[1:]
-            else:
-                user = line.split("|")[0]
-                userVectors[user] = line.split("|")[1:]
+            userVectors.append(line)
     return userVectors
 
 def getPredictionVectors(file):
     userPredictionVectors = []
     with open(file, "r", encoding="utf-8"):
         for line in file:
-            userID = line.split("|")[0]
-            userPredictionVectors[userID] = line.split("|")
+            user = []
+            user.append(line.split("|")[0])
+            user.append(line.split("|")[1])
+            user.append(line.split("|")[2])
+            user.append(line.split("|")[3])
+            userPredictionVectors.append(user)
     return userPredictionVectors    
 
 if __name__ == "__main__":
