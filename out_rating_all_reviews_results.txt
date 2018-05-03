@@ -1,0 +1,1916 @@
+folds_10/review_fold_0.txt
+thomas|War for the Planet of the Apes|2.0|3.84
+mntngrl|Get Out|4.0|3.89583333333
+Michael Brunelle|Despicable Me 3|5.0|4.11290322581
+robert d flanigan|Get Out|5.0|3.89583333333
+rob|Alien: Covenant|4.0|2.93684210526
+Jim|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.39566929134
+PennWriter|Transformers: The Last Knight|1.0|3.68131868132
+Missy|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.84955752212
+K. Sandell|Daddy's Home 2|5.0|3.94230769231
+JG|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.39566929134
+Sara Wright|A Dog's Purpose|5.0|4.46666666667
+ldemar|The Post|5.0|3.14705882353
+RH24|Fifty Shades Darker (Unrated Version)|4.0|3.625
+The Goobber|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.2196969697
+Shayna|Ferdinand |5.0|4.53333333333
+Victoria|A Dog's Purpose|5.0|4.46666666667
+Phil Crescenzo|Blade Runner 2049|1.0|3.6699751861
+Mimi|Spider-Man: Homecoming|4.0|3.92307692308
+Brittany E.|Wonder Woman|5.0|4.63839285714
+Cheryl ann Preno|Get Out|4.0|3.89583333333
+JW|Dunkirk|3.0|3.40233236152
+Cable|Wonder Woman|4.0|4.63839285714
+Tooky|Baywatch|5.0|3.59447004608
+C. Nelson|Kingsman: The Golden Circle|1.0|2.97590361446
+Pen Name|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.39566929134
+amy|Jumanji: Welcome To The Jungle|4.0|4.17142857143
+Sinclair Garner|Spider-Man: Homecoming|4.0|3.92307692308
+Patricia Viera|Girls Trip|4.0|4.34090909091
+Jessica C.|Kong: Skull Island|5.0|3.91784037559
+penname|Blade Runner 2049|1.0|3.6699751861
+U.N. S.|Spider-Man: Homecoming|2.0|3.92307692308
+Scott Meyer|John Wick|5.0|4.49530956848
+biglu|The LEGO Batman Movie|4.0|4.13725490196
+Angel|Spider-Man: Homecoming|3.0|3.92307692308
+Adonya|Kong: Skull Island|1.0|3.91784037559
+oldgolferrelic|A Dog's Purpose|5.0|4.46666666667
+Jose S. Gomez|The LEGO NINJAGO Movie|5.0|4.28301886792
+DG|Wonder Woman|5.0|4.63839285714
+Jared Lee|Daddy's Home 2|1.0|3.94230769231
+Carl V.|Transformers: The Last Knight|5.0|3.68131868132
+Tamara|Fifty Shades Darker (Unrated Version)|1.0|3.625
+Kweebia|Dunkirk|3.0|3.40233236152
+Kate|The Emoji Movie|1.0|4.0
+Charlene|The Mummy (2017)|2.0|3.29441624365
+Alicia Shook|Baywatch|3.0|3.59447004608
+Destiny|The Shape of Water|2.0|3.54802259887
+Marc|John Wick|5.0|4.49530956848
+Gerald|Three Billboards Outside Ebbing, Missouri|5.0|4.0
+F. C. Schaefer|Spider-Man: Homecoming|5.0|3.92307692308
+Rosa|The LEGO Batman Movie|5.0|4.13725490196
+CPT Dropshot|Wonder Woman|4.0|4.63839285714
+AmazonAddict|The Mummy (2017)|4.0|3.29441624365
+Derek|Wonder Woman|4.0|4.63839285714
+Debbie|War for the Planet of the Apes|4.0|3.84
+Jonathan|Baby Driver|1.0|3.91335740072
+David S.|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.84955752212
+shannon|Wonder Woman|4.0|4.63839285714
+Simply4Learning|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.39566929134
+Obi Wan|Murder on the Orient Express|2.0|3.83620689655
+Anstin|Justice League|5.0|4.18939393939
+CLAUDE H BARRON JR|Split|4.0|4.02996254682
+Janet|Darkest Hour|2.0|4.29696969697
+JMS|Wonder|5.0|4.71232876712
+T P|War for the Planet of the Apes|2.0|3.84
+PC|A Dog's Purpose|5.0|4.46666666667
+Brian S.|A Dog's Purpose|5.0|4.46666666667
+nolandpete|Fifty Shades Darker (Unrated Version)|1.0|3.625
+J C|Split|3.0|4.02996254682
+Just Me|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.2196969697
+Music & Book Fanatic|Dunkirk|3.0|3.40233236152
+Gray|The Emoji Movie|5.0|4.0
+kahlanne|Daddy's Home 2|4.0|3.94230769231
+G|John Wick|5.0|4.49530956848
+James G.|Cars 3 (Theatrical)|5.0|4.53571428571
+D. Blum|Dunkirk|4.0|3.40233236152
+Patrick Lopez|The Mummy (2017)|3.0|3.29441624365
+Judy|Jumanji: Welcome To The Jungle|4.0|4.17142857143
+R. Lieberum|Spider-Man: Homecoming|5.0|3.92307692308
+L. John|War for the Planet of the Apes|2.0|3.84
+Frank F.|Wonder Woman|4.0|4.63839285714
+Lois L. Simpson|Spider-Man: Homecoming|5.0|3.92307692308
+Yarnfinder|Alien: Covenant|3.0|2.93684210526
+Rust|Transformers: The Last Knight|5.0|3.68131868132
+Amber|Split|3.0|4.02996254682
+Stacy H.|The Mummy (2017)|1.0|3.29441624365
+MC|The LEGO Batman Movie|3.0|4.13725490196
+Vicki L Dull|Three Billboards Outside Ebbing, Missouri|3.0|4.0
+Catherine|Spider-Man: Homecoming|5.0|3.92307692308
+drqshadow|The Shape of Water|3.0|3.54802259887
+Steve|Star Wars: The Last Jedi (With Bonus Content)|2.0|3.2196969697
+Patrick Potts|Kingsman: The Golden Circle|4.0|2.97590361446
+Aimee|The LEGO Batman Movie|5.0|4.13725490196
+Kevin|John Wick|4.0|4.49530956848
+HaleighElise|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.84955752212
+Sammy|Fifty Shades Darker (Unrated Version)|1.0|3.625
+J. Brown|A Dog's Purpose|5.0|4.46666666667
+Eric|John Wick|5.0|4.49530956848
+lou  scrobogna|Dunkirk|5.0|3.40233236152
+kim|John Wick|4.0|4.49530956848
+glenn|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.2196969697
+Robert|Kong: Skull Island|5.0|3.91784037559
+Michael M.|John Wick|3.0|4.49530956848
+Kelly|Kingsman: The Golden Circle|1.0|2.97590361446
+DaveTheMechanic|The Mummy (2017)|5.0|3.29441624365
+Lou|John Wick|5.0|4.49530956848
+C Mayfair|Get Out|4.0|3.89583333333
+robert long|A Dog's Purpose|5.0|4.46666666667
+sarah|Girls Trip|5.0|4.34090909091
+Big Daddy|Spider-Man: Homecoming|4.0|3.92307692308
+Mr. Right|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.2196969697
+Reginald R. Prout|Baby Driver|5.0|3.91335740072
+snow47|Alien: Covenant|4.0|2.93684210526
+LADY T|Kong: Skull Island|5.0|3.91784037559
+sara|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.84955752212
+F.Faulkner|Justice League|2.0|4.18939393939
+tiny|Split|3.0|4.02996254682
+Lawrance Thompson|The LEGO Batman Movie|5.0|4.13725490196
+William Schoebel|Transformers: The Last Knight|4.0|3.68131868132
+Larry|Thor: Ragnarok (Theatrical Version)|2.0|4.15584415584
+GiGi|Three Billboards Outside Ebbing, Missouri|1.0|4.0
+RBSProds|Three Billboards Outside Ebbing, Missouri|5.0|4.0
+michael a crown|Alien: Covenant|3.0|2.93684210526
+Carl Schultz|The Post|3.0|3.14705882353
+john|Baby Driver|4.0|3.91335740072
+Rebecca|Kong: Skull Island|5.0|3.91784037559
+Henry Erlenwein|Star Wars: The Last Jedi (With Bonus Content)|3.0|3.2196969697
+Jason J|Baywatch|5.0|3.59447004608
+KELLVYN M.|Wonder Woman|5.0|4.63839285714
+BullittFan|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.39566929134
+RVNut|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.84955752212
+Sheldon P.|The Mummy (2017)|5.0|3.29441624365
+m b|Blade Runner 2049|3.0|3.6699751861
+David B.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.39566929134
+CP|The Boss Baby|3.0|4.04621848739
+Barbara|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.85820895522
+Linda J.|Wonder|5.0|4.71232876712
+Johnny|Three Billboards Outside Ebbing, Missouri|5.0|4.0
+reena salas|Annabelle Creation|3.0|4.13636363636
+Dr. Limfoma Mbweebwee|Despicable Me 3|4.0|4.11290322581
+charlie|Kong: Skull Island|5.0|3.91784037559
+Elise|Baywatch|5.0|3.59447004608
+Lauren|Jumanji: Welcome To The Jungle|5.0|4.17142857143
+dee|Jumanji: Welcome To The Jungle|2.0|4.17142857143
+Cheyenne|Coco (Theatrical Version)|5.0|4.65432098765
+Craig Owens|The LEGO Batman Movie|3.0|4.13725490196
+jenny|Annabelle Creation|1.0|4.13636363636
+sam|Alien: Covenant|5.0|2.93684210526
+Gennie Ann|Spider-Man: Homecoming|4.0|3.92307692308
+Brandy M.|Kong: Skull Island|5.0|3.91784037559
+autumn|Wonder|5.0|4.71232876712
+Kimberly|The Shack|5.0|4.29181494662
+S. A. ROBBINS|Kingsman: The Golden Circle|1.0|2.97590361446
+Becca|Get Out|3.0|3.89583333333
+Danielle|Transformers: The Last Knight|5.0|3.68131868132
+Todd Norman|Transformers: The Last Knight|5.0|3.68131868132
+Rbn Worley|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.85820895522
+Tony R.|Justice League|3.0|4.18939393939
+LB|John Wick|5.0|4.49530956848
+True-Review|Transformers: The Last Knight|2.0|3.68131868132
+Dalach|Kong: Skull Island|4.0|3.91784037559
+Hannah|A Dog's Purpose|5.0|4.46666666667
+Wathan48|Get Out|4.0|3.89583333333
+Tyler VanNatta|Split|5.0|4.02996254682
+Deborah|Kong: Skull Island|5.0|3.91784037559
+Rocko3|The Mummy (2017)|4.0|3.29441624365
+titania86|Get Out|5.0|3.89583333333
+Lynn|The Shape of Water|3.0|3.54802259887
+Natalie|The Mummy (2017)|4.0|3.29441624365
+Ace|Get Out|5.0|3.89583333333
+Kelli|Kingsman: The Golden Circle|5.0|2.97590361446
+Joel|Despicable Me 3|5.0|4.11290322581
+S_T_N|The LEGO Batman Movie|4.0|4.13725490196
+Stacie|Girls Trip|5.0|4.34090909091
+william|The Shack|5.0|4.29181494662
+Rain Nightmoon|The Mummy (2017)|5.0|3.29441624365
+bmulc|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.2196969697
+Martin|Kingsman: The Golden Circle|5.0|2.97590361446
+Michelle hickman|Girls Trip|5.0|4.34090909091
+Trish Waddles|Get Out|5.0|3.89583333333
+G.V. Rossi|Spider-Man: Homecoming|5.0|3.92307692308
+Shopper|The Mummy (2017)|1.0|3.29441624365
+H. Bala|Happy Death Day|5.0|4.13846153846
+Economist|The Boss Baby|2.0|4.04621848739
+Amzon Comsuter|Transformers: The Last Knight|1.0|3.68131868132
+Kent Mauresmo|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.39566929134
+Zoth Daskalos|The LEGO NINJAGO Movie|3.0|4.28301886792
+Adam Cordero|The Emoji Movie|5.0|4.0
+1942|Blade Runner 2049|5.0|3.6699751861
+John H.|Alien: Covenant|5.0|2.93684210526
+Karl|John Wick|4.0|4.49530956848
+peterbit|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.39566929134
+folds_10/review_fold_1.txt
+Van|John Wick|5.0|4.48832684825
+Kenneth R,. Shaffer|Murder on the Orient Express|5.0|3.83185840708
+dp7264|The Mummy (2017)|4.0|3.28205128205
+Enrico F Consiglio|Spider-Man: Homecoming|4.0|3.93287037037
+Mitzi|Baby Driver|5.0|3.90977443609
+M. Powell|Darkest Hour|5.0|4.29299363057
+Krystal Clifton|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.21705426357
+Robert Blenheim|Darkest Hour|3.0|4.29299363057
+JA|John Wick|4.0|4.48832684825
+Benjamin|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.21705426357
+Platno|Get Out|3.0|3.9018404908
+D. Jones|Spider-Man: Homecoming|3.0|3.93287037037
+Russell Vanek|Baby Driver|5.0|3.90977443609
+Dan|Wonder Woman|5.0|4.63157894737
+Jay|Baby Driver|1.0|3.90977443609
+Robert Rivera|Spider-Man: Homecoming|1.0|3.93287037037
+Kristy|Get Out|5.0|3.9018404908
+FatChupacabras|Transformers: The Last Knight|3.0|3.67547169811
+Mike Kay|Wonder Woman|5.0|4.63157894737
+TheSmiths|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3875502008
+Stew|Three Billboards Outside Ebbing, Missouri|5.0|3.96
+Anonymous|Kong: Skull Island|1.0|3.90953545232
+Patrick Flaherty|Daddy's Home 2|1.0|3.97087378641
+enjoying|Wonder Woman|5.0|4.63157894737
+Jim from Mt Clemens|Coco (Theatrical Version)|5.0|4.64556962025
+Michelle|Split|5.0|4.02671755725
+shinygoodguy|Wonder Woman|5.0|4.63157894737
+Michael H.|Three Billboards Outside Ebbing, Missouri|5.0|3.96
+sandra bracken|The Shack|5.0|4.29856115108
+Louis|Wonder Woman|5.0|4.63157894737
+dan|Alien: Covenant|1.0|2.97837837838
+Roberto|Kong: Skull Island|4.0|3.90953545232
+Julian Kennedy|Baby Driver|5.0|3.90977443609
+Jamey.arnouville|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3875502008
+Edward W. Duveyoung|The Boss Baby|5.0|4.04661016949
+Thomas|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.3875502008
+Rae|Captain Underpants: The First Epic Movie|4.0|4.16161616162
+ChewLing|Transformers: The Last Knight|2.0|3.67547169811
+Sam|Wonder Woman|5.0|4.63157894737
+art mills|Blade Runner 2049|1.0|3.65139949109
+Laura Seinwerth|Cars 3 (Theatrical)|5.0|4.53086419753
+chuck|Get Out|5.0|3.9018404908
+vermontee|Baywatch|5.0|3.59241706161
+DMann|The LEGO Batman Movie|5.0|4.13636363636
+ZETTER|Transformers: The Last Knight|5.0|3.67547169811
+Raun Johnson|Blade Runner 2049|5.0|3.65139949109
+Tiffany|A Dog's Purpose|5.0|4.48101265823
+Gerald L. Dionne|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3875502008
+Felix|Darkest Hour|5.0|4.29299363057
+M. Fahrer|John Wick|5.0|4.48832684825
+Grant|Alien: Covenant|3.0|2.97837837838
+Anthony Reeder|Kong: Skull Island|5.0|3.90953545232
+Sandra S|Kong: Skull Island|5.0|3.90953545232
+Mark|War for the Planet of the Apes|1.0|3.84827586207
+Brandy|A Dog's Purpose|1.0|4.48101265823
+EMQ|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.84821428571
+Joe Howard|Justice League|5.0|4.2125984252
+Tina|Jumanji: Welcome To The Jungle|1.0|4.1884057971
+Taylor Gensler|Blade Runner 2049|5.0|3.65139949109
+dawn|A Bad Moms Christmas|3.0|3.31944444444
+tammy vitale|Kong: Skull Island|3.0|3.90953545232
+Ross|Fifty Shades Darker (Unrated Version)|4.0|3.63636363636
+Somebody|Spider-Man: Homecoming|5.0|3.93287037037
+Carolina Delgado|Transformers: The Last Knight|5.0|3.67547169811
+Frank|John Wick|3.0|4.48832684825
+Gina|Girls Trip|5.0|4.32558139535
+Mackenzie|The LEGO Batman Movie|3.0|4.13636363636
+Tim|Fifty Shades Darker (Unrated Version)|2.0|3.63636363636
+JMH|Dunkirk|2.0|3.40236686391
+ckennedy|Justice League|4.0|4.2125984252
+Linsan53|Baywatch|5.0|3.59241706161
+muc|Wonder Woman|5.0|4.63157894737
+joy|Kong: Skull Island|4.0|3.90953545232
+PL|Darkest Hour|4.0|4.29299363057
+Mario|Star Wars: The Last Jedi (With Bonus Content)|4.0|3.21705426357
+None|Kong: Skull Island|5.0|3.90953545232
+JP|Baby Driver|4.0|3.90977443609
+M. DAY|Wonder Woman|5.0|4.63157894737
+Amazon User|Spider-Man: Homecoming|1.0|3.93287037037
+J. Dos|The LEGO NINJAGO Movie|5.0|4.22448979592
+Michael Ross|Captain Underpants: The First Epic Movie|5.0|4.16161616162
+sunday movie watcher|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3875502008
+chris r|The LEGO NINJAGO Movie|5.0|4.22448979592
+Frequency Jones|John Wick|5.0|4.48832684825
+joe stewart|Get Out|4.0|3.9018404908
+GLORIA JULIA A. DAVIS|John Wick|5.0|4.48832684825
+Loretta|Transformers: The Last Knight|5.0|3.67547169811
+Stephanie|Girls Trip|5.0|4.32558139535
+Spencer|Wonder Woman|5.0|4.63157894737
+jb|Blade Runner 2049|5.0|3.65139949109
+Curt|Justice League|1.0|4.2125984252
+mindy|Girls Trip|5.0|4.32558139535
+J. Mitchell|Kong: Skull Island|5.0|3.90953545232
+Leigh|Kong: Skull Island|5.0|3.90953545232
+MB|The Post|1.0|3.21212121212
+awakefie|Kong: Skull Island|5.0|3.90953545232
+IndiJones68|Kingsman: The Golden Circle|3.0|2.98170731707
+Travis|Kong: Skull Island|5.0|3.90953545232
+Nicole D.|The Shape of Water|2.0|3.57142857143
+CW|John Wick|5.0|4.48832684825
+PJS|War for the Planet of the Apes|3.0|3.84827586207
+Clint Heisler|Baby Driver|5.0|3.90977443609
+John T.|Split|5.0|4.02671755725
+Dallas|John Wick|5.0|4.48832684825
+Dennis Brock Peace|Baywatch|3.0|3.59241706161
+Robert Anderson|The LEGO Batman Movie|5.0|4.13636363636
+Happy Shopper|Coco (Theatrical Version)|5.0|4.64556962025
+Thomas J. Mcdonald|Kong: Skull Island|4.0|3.90953545232
+DarkHorseMcPhee|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3875502008
+Tom|Blade Runner 2049|5.0|3.65139949109
+george|Kong: Skull Island|3.0|3.90953545232
+KC|Three Billboards Outside Ebbing, Missouri|5.0|3.96
+JSF|Split|5.0|4.02671755725
+Neal|Split|3.0|4.02671755725
+Janice Saenz|John Wick|4.0|4.48832684825
+Taylor Bowe Mcardle|The Emoji Movie|1.0|4.04807692308
+Daniel Rousch|John Wick|5.0|4.48832684825
+angela|The LEGO NINJAGO Movie|5.0|4.22448979592
+European living in Los Angeles|Baywatch|1.0|3.59241706161
+Connor|Alien: Covenant|1.0|2.97837837838
+James Williams|Spider-Man: Homecoming|5.0|3.93287037037
+Rachel|Murder on the Orient Express|5.0|3.83185840708
+E|The LEGO Batman Movie|5.0|4.13636363636
+j g|Spider-Man: Homecoming|5.0|3.93287037037
+Whitney|Baywatch|4.0|3.59241706161
+Javier|Baby Driver|3.0|3.90977443609
+shawn|Baby Driver|5.0|3.90977443609
+Errol|Spider-Man: Homecoming|3.0|3.93287037037
+Michael J. Kauspedas|Blade Runner 2049|5.0|3.65139949109
+Karlito|Split|3.0|4.02671755725
+Chuck|Transformers: The Last Knight|3.0|3.67547169811
+Michael A. Kleen|Annabelle Creation|3.0|4.13953488372
+AndyKhounsacknarath|Justice League|5.0|4.2125984252
+R|Get Out|5.0|3.9018404908
+M. Hughey|Despicable Me 3|5.0|4.09836065574
+Movie Geek|Wonder|5.0|4.70921985816
+jennifer|Dunkirk|5.0|3.40236686391
+Austin|Baby Driver|2.0|3.90977443609
+Sheila|Darkest Hour|5.0|4.29299363057
+rbmusicman/and/movie-fan'|Kong: Skull Island|4.0|3.90953545232
+Otis|Three Billboards Outside Ebbing, Missouri|3.0|3.96
+Jonathan Cardona|War for the Planet of the Apes|5.0|3.84827586207
+Tdkadletz|Dunkirk|4.0|3.40236686391
+highlandhoh3|Thor: Ragnarok (Theatrical Version)|5.0|4.14473684211
+M. Miller|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.3875502008
+Lynne R Cates|Darkest Hour|5.0|4.29299363057
+Lori|Murder on the Orient Express|2.0|3.83185840708
+Allie|John Wick|5.0|4.48832684825
+Cassandra|Wonder|5.0|4.70921985816
+Mandoniousrex|Happy Death Day|5.0|4.125
+William B.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3875502008
+Sydney|Beauty and the Beast (2017) (Theatrical Version)|4.0|3.83969465649
+DD|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.21705426357
+penny|Transformers: The Last Knight|5.0|3.67547169811
+Douglas|Get Out|1.0|3.9018404908
+Brian J. Van Nevel|Baby Driver|4.0|3.90977443609
+Benjamin Alexander De Mers|Transformers: The Last Knight|3.0|3.67547169811
+Vargr|Blade Runner 2049|5.0|3.65139949109
+Maestro|War for the Planet of the Apes|4.0|3.84827586207
+Liz|Get Out|5.0|3.9018404908
+Nik|Blade Runner 2049|3.0|3.65139949109
+LC|Wonder|5.0|4.70921985816
+Sarah Skupa|Ferdinand |5.0|4.51724137931
+Stacy|Captain Underpants: The First Epic Movie|5.0|4.16161616162
+Woodacre|Alien: Covenant|1.0|2.97837837838
+shane|John Wick|4.0|4.48832684825
+Joseph Domingoes|Get Out|3.0|3.9018404908
+TJ|Dunkirk|1.0|3.40236686391
+Jamie B|The Boss Baby|3.0|4.04661016949
+HARALD G. HALL|John Wick|5.0|4.48832684825
+Howie|Get Out|5.0|3.9018404908
+Omid T.|Kong: Skull Island|5.0|3.90953545232
+AC|Three Billboards Outside Ebbing, Missouri|5.0|3.96
+Danny|John Wick|5.0|4.48832684825
+Nathan|John Wick|5.0|4.48832684825
+Randy Yamanishi|John Wick|5.0|4.48832684825
+elle|Justice League|3.0|4.2125984252
+A. Wayne Parker|Wonder|4.0|4.70921985816
+Cindy|Wonder|5.0|4.70921985816
+terry|Wonder Woman|4.0|4.63157894737
+Coco|John Wick|4.0|4.48832684825
+Katherine|Cars 3 (Theatrical)|4.0|4.53086419753
+SOD|Kong: Skull Island|4.0|3.90953545232
+ashley|Three Billboards Outside Ebbing, Missouri|5.0|3.96
+Frederick Pilch|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.83969465649
+C W|Alien: Covenant|1.0|2.97837837838
+J.phipps|Spider-Man: Homecoming|4.0|3.93287037037
+Melanie Brimhall|Captain Underpants: The First Epic Movie|5.0|4.16161616162
+Carolyn Lundy Neumann|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3875502008
+Katie|The Emoji Movie|5.0|4.04807692308
+JB Caring Customer|The LEGO Batman Movie|2.0|4.13636363636
+folds_10/review_fold_2.txt
+Sarah|Spider-Man: Homecoming|5.0|3.94075829384
+Ron Baker|Star Wars: The Last Jedi (With Bonus Content)|4.0|3.22352941176
+Val|The Emoji Movie|5.0|4.0099009901
+Cook & Collector|Spider-Man: Homecoming|1.0|3.94075829384
+JR|Daddy's Home 2|3.0|3.98
+Jan|Annabelle Creation|3.0|4.13414634146
+HolyJIEbus|Annabelle Creation|4.0|4.13414634146
+Running Deer|Wonder|4.0|4.71111111111
+Bob Bruggman|Spider-Man: Homecoming|5.0|3.94075829384
+silcoon|Kong: Skull Island|5.0|3.90274314214
+kate|The Boss Baby|5.0|4.04310344828
+JB|Darkest Hour|2.0|4.31333333333
+shop101|Darkest Hour|5.0|4.31333333333
+Joshua Glowzinski|Spider-Man: Homecoming|2.0|3.94075829384
+D. S. ROGERS|Kong: Skull Island|5.0|3.90274314214
+Samantha|Pitch Perfect 3|5.0|3.76315789474
+Lisa Hoback|Transformers: The Last Knight|5.0|3.64960629921
+John M.|The Mummy (2017)|1.0|3.28795811518
+AF12345|Dunkirk|5.0|3.40729483283
+Stephen Waller|Baby Driver|4.0|3.93181818182
+aaron|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38445807771
+Christopher|War for the Planet of the Apes|2.0|3.85915492958
+V. K. Manglaveras|A Dog's Purpose|3.0|4.47844827586
+Buyer|Dunkirk|5.0|3.40729483283
+V. S. 3|Spider-Man: Homecoming|5.0|3.94075829384
+Misty|The Emoji Movie|3.0|4.0099009901
+KB|Captain Underpants: The First Epic Movie|5.0|4.14432989691
+Ruth Nead|The Boss Baby|5.0|4.04310344828
+Ami Jordan|Baywatch|5.0|3.59523809524
+Mary King|Kong: Skull Island|5.0|3.90274314214
+Amazon customer|Annabelle Creation|5.0|4.13414634146
+artsy1|Transformers: The Last Knight|4.0|3.64960629921
+Buzz|Dunkirk|2.0|3.40729483283
+Margarita G. Gutierrez|Split|4.0|4.03875968992
+Iryna|Despicable Me 3|5.0|4.08333333333
+Ana|Justice League|5.0|4.22950819672
+M. Oleson|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.85039370079
+Chris Norwood|A Dog's Purpose|5.0|4.47844827586
+Marc; Real Human; Not A Robot!|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.38445807771
+Danny S.|Wonder|4.0|4.71111111111
+Amanda S.|Coco (Theatrical Version)|3.0|4.66233766234
+Denise|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38445807771
+Teresa A|The Shack|4.0|4.26937269373
+Conan|Get Out|1.0|3.884375
+Gourdbeader1|Annabelle Creation|5.0|4.13414634146
+Michael Gentil|The Post|1.0|3.28125
+Jeffery|Wonder|5.0|4.71111111111
+Jason C Park|Wonder Woman|5.0|4.6238317757
+SHP|Blade Runner 2049|5.0|3.64871794872
+Bill B.|A Dog's Purpose|4.0|4.47844827586
+Strategos|Kong: Skull Island|5.0|3.90274314214
+C. Pearson|Blade Runner 2049|4.0|3.64871794872
+whitesiren|Wonder Woman|5.0|4.6238317757
+Linda H.|Spider-Man: Homecoming|5.0|3.94075829384
+Mary|Kingsman: The Golden Circle|2.0|2.96932515337
+Butterfly|Wonder Woman|5.0|4.6238317757
+BIG DADDY|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38445807771
+Andrew Cram|John Wick|3.0|4.49215686275
+Brian Johnson|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.85
+Joy|Three Billboards Outside Ebbing, Missouri|1.0|3.97540983607
+Lisa Garcia|Girls Trip|1.0|4.34645669291
+jcv: a great product especially the display|Blade Runner 2049|4.0|3.64871794872
+William|The Shack|5.0|4.26937269373
+3fingerblaster|Wonder Woman|5.0|4.6238317757
+Dave|The LEGO Batman Movie|5.0|4.12886597938
+Mick|The Shack|5.0|4.26937269373
+AdamB|Three Billboards Outside Ebbing, Missouri|5.0|3.97540983607
+Isaiah|Thor: Ragnarok (Theatrical Version)|5.0|4.13888888889
+Chris M.|Dunkirk|1.0|3.40729483283
+Ranny Levy|Transformers: The Last Knight|4.0|3.64960629921
+momof2homeschool|The LEGO Batman Movie|5.0|4.12886597938
+C|Darkest Hour|3.0|4.31333333333
+LtPuddin|Kingsman: The Golden Circle|5.0|2.96932515337
+The Maze Runner: The Fever Code 2018|Captain Underpants: The First Epic Movie|5.0|5.0
+Juan C. Ortiz Ares|Transformers: The Last Knight|5.0|3.64960629921
+humanartistvendingmachine|Daddy's Home 2|3.0|3.98
+Antonio|Get Out|5.0|3.884375
+Brittany Jones|The Greatest Showman|5.0|5.0
+Chris T.|Alien: Covenant|5.0|2.95555555556
+Brittany Rhodes|The LEGO NINJAGO Movie|5.0|4.22448979592
+Rusty Sly|Darkest Hour|5.0|4.31333333333
+Harry Heersema|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.22352941176
+Dee wells|Three Billboards Outside Ebbing, Missouri|5.0|3.97540983607
+Dana|Cars 3 (Theatrical)|5.0|4.51282051282
+SHERRY M DAUGHERTY|Transformers: The Last Knight|4.0|3.64960629921
+Trish|The Boss Baby|2.0|4.04310344828
+G. Teslovich|Kong: Skull Island|1.0|3.90274314214
+Carolyn|Jumanji: Welcome To The Jungle|3.0|4.20437956204
+Kay B|War for the Planet of the Apes|5.0|3.85915492958
+Glenn|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.22352941176
+MM|Dunkirk|5.0|3.40729483283
+Eddy M|The Mummy (2017)|5.0|3.28795811518
+david|Alien: Covenant|4.0|2.95555555556
+Autumn|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.38445807771
+Chustco|Kong: Skull Island|5.0|3.90274314214
+joe|Spider-Man: Homecoming|1.0|3.94075829384
+JamieLT|Kong: Skull Island|4.0|3.90274314214
+Nancy|The Shack|5.0|4.26937269373
+jeff|Transformers: The Last Knight|4.0|3.64960629921
+KMO|Dunkirk|2.0|3.40729483283
+MacGuy|Thor: Ragnarok (Theatrical Version)|4.0|4.13888888889
+Bluth|Darkest Hour|5.0|4.31333333333
+Retired TX Engineer|Darkest Hour|4.0|4.31333333333
+Kristi|Cars 3 (Theatrical)|5.0|4.51282051282
+S|Get Out|5.0|3.884375
+Russell Consdorf|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38445807771
+marc|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.85
+intheWood|Wonder Woman|5.0|4.6238317757
+Katelyn|Thor: Ragnarok (Theatrical Version)|4.0|4.13888888889
+Alyssa|Fifty Shades Darker (Unrated Version)|4.0|3.63302752294
+Mike Donnelly|Dunkirk|3.0|3.40729483283
+Elena|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.85039370079
+Allie H|Blade Runner 2049|5.0|3.64871794872
+Robert E|Justice League|5.0|4.22950819672
+Lana|Get Out|5.0|3.884375
+R. Lee|Baywatch|2.0|3.59523809524
+DB|Transformers: The Last Knight|5.0|3.64960629921
+Jerry|The Shack|5.0|4.26937269373
+charles Johnson|The Mummy (2017)|4.0|3.28795811518
+V|John Wick|5.0|4.49215686275
+J.A.|Baby Driver|2.0|3.93181818182
+Gene|Alien: Covenant|4.0|2.95555555556
+pattk77|A Bad Moms Christmas|2.0|3.37142857143
+lynn|Beauty and the Beast (2017) (Theatrical Version)|1.0|3.85039370079
+judy m merrill|Split|4.0|4.03875968992
+mrjtg|Kong: Skull Island|2.0|3.90274314214
+ben|Star Wars: The Last Jedi (With Bonus Content)|2.0|3.22352941176
+Jenny|Beauty and the Beast (2017) (Theatrical Version)|4.0|3.85039370079
+Ganera|The Shape of Water|5.0|3.54022988506
+SS|John Wick|5.0|4.49215686275
+Mark Weisler|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38445807771
+Justin LeCheminant|Alien: Covenant|3.0|2.95555555556
+mj|The LEGO Batman Movie|3.0|4.12886597938
+CoachD|John Wick|4.0|4.49215686275
+HMS Warspite|Blade Runner 2049|4.0|3.64871794872
+greg|Dunkirk|5.0|3.40729483283
+erick simpson|War for the Planet of the Apes|3.0|3.85915492958
+Movie Nerd|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.85
+Michael Grösch-McCluskey|Jumanji: Welcome To The Jungle|4.0|4.20437956204
+Sharon|The Shack|5.0|4.26937269373
+Heather|Get Out|5.0|3.884375
+Justin Heath|Transformers: The Last Knight|5.0|3.64960629921
+Stephen P. Graf|War for the Planet of the Apes|5.0|3.85915492958
+Louis B.|Wonder Woman|5.0|4.6238317757
+Shelly|Split|1.0|4.03875968992
+The Bard William Shakespeare|Transformers: The Last Knight|5.0|3.64960629921
+Brian|The LEGO Batman Movie|5.0|4.12886597938
+M.J|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38445807771
+Simplegirl40|A Dog's Purpose|5.0|4.47844827586
+BookshireCrone|Spider-Man: Homecoming|2.0|3.94075829384
+ric|The Mummy (2017)|2.0|3.28795811518
+Dean Wirth|Happy Death Day|4.0|4.11290322581
+Laura|Spider-Man: Homecoming|5.0|3.94075829384
+Ta Landa|Split|4.0|4.03875968992
+Sherry Butler|Wonder Woman|5.0|4.6238317757
+LA|The Emoji Movie|4.0|4.0099009901
+Alicia|John Wick|4.0|4.49215686275
+Jasmine|Thor: Ragnarok (Theatrical Version)|4.0|4.13888888889
+Lorraine S.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38445807771
+Renee, NY|Justice League|4.0|4.22950819672
+Stacey Foss|Wonder|5.0|4.71111111111
+Alan Ramirez|Annabelle Creation|5.0|4.13414634146
+Bob Smith|Transformers: The Last Knight|5.0|3.64960629921
+Nathan I. Rice|Wonder|5.0|4.71111111111
+TG|The LEGO Batman Movie|5.0|4.12886597938
+Marie|Darkest Hour|5.0|4.31333333333
+liz|The Shack|5.0|4.26937269373
+William Green|Daddy's Home 2|5.0|3.98
+A|Ferdinand |5.0|4.48148148148
+AB|The Shack|5.0|4.26937269373
+elizabeth|Dunkirk|5.0|3.40729483283
+PR GUY|Happy Death Day|5.0|4.11290322581
+bruce|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.85
+Nyckie|Captain Underpants: The First Epic Movie|5.0|4.14432989691
+Kevin and Shannon|Wonder Woman|5.0|4.6238317757
+ckdrums|The Shape of Water|5.0|3.54022988506
+Michael J. Tresca|Spider-Man: Homecoming|5.0|3.94075829384
+Cat|Wonder|5.0|4.71111111111
+Leanne K|Get Out|5.0|3.884375
+MacJunegrand|Justice League|4.0|4.22950819672
+Kristen|Ferdinand |5.0|4.48148148148
+michelle|Cars 3 (Theatrical)|5.0|4.51282051282
+Carter|Spider-Man: Homecoming|4.0|3.94075829384
+Terry B|Girls Trip|5.0|4.34645669291
+Julie|Beauty and the Beast (2017) (Theatrical Version)|4.0|3.85039370079
+Erma|Three Billboards Outside Ebbing, Missouri|4.0|3.97540983607
+Bravo10|Wonder Woman|5.0|4.6238317757
+Scott|Justice League|1.0|4.22950819672
+VjL|The Boss Baby|5.0|4.04310344828
+The Movie Man|A Dog's Purpose|5.0|4.47844827586
+dabcpa|Darkest Hour|5.0|4.31333333333
+folds_10/review_fold_3.txt
+Pete|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.85046728972
+GreatBuys|Kong: Skull Island|1.0|3.92111959288
+george botelho|John Wick|5.0|4.49196787149
+Steve K.|Get Out|3.0|3.87658227848
+Cam|John Wick|5.0|4.49196787149
+eugene f dunham III|Alien: Covenant|3.0|2.96610169492
+Jorge|Spider-Man: Homecoming|5.0|3.9413202934
+Dolores|Kong: Skull Island|3.0|3.92111959288
+JS|Coco (Theatrical Version)|5.0|4.6338028169
+Wes|Beauty and the Beast (2017) (Theatrical Version)|3.0|3.86178861789
+kathy neilly|Wonder Woman|5.0|4.63069544365
+Wayne|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+James S|A Bad Moms Christmas|2.0|3.35714285714
+Mario J. Machado|Annabelle Creation|5.0|4.15
+John P.|Wonder Woman|5.0|4.63069544365
+KKoch|The Mummy (2017)|2.0|3.29787234043
+JC|The Mummy (2017)|4.0|3.29787234043
+Terry R Sullivan|Thor: Ragnarok (Theatrical Version)|5.0|4.11764705882
+tj christy|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.85046728972
+Einsatz|Coco (Theatrical Version)|5.0|4.6338028169
+RS|John Wick|3.0|4.49196787149
+John's Horror Corner|The Shape of Water|5.0|3.56213017751
+Double D|Thor: Ragnarok (Theatrical Version)|5.0|4.11764705882
+A customer|Blade Runner 2049|1.0|3.63395225464
+David Bonesteel|Spider-Man: Homecoming|5.0|3.9413202934
+O. Karayoff|Alien: Covenant|2.0|2.96610169492
+Mike S.|John Wick|5.0|4.49196787149
+Mike G|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.37656903766
+Kellie of Seattle|Murder on the Orient Express|5.0|3.79816513761
+Michelle Morning|Get Out|5.0|3.87658227848
+Cyndi Spaulding-Hansel|The Shack|5.0|4.25842696629
+Phillip|Baywatch|5.0|3.5756097561
+Reviewer99|Blade Runner 2049|1.0|3.63395225464
+Janishasha|Three Billboards Outside Ebbing, Missouri|5.0|3.96638655462
+Bonnie|Spider-Man: Homecoming|2.0|3.9413202934
+Crystal|Beauty and the Beast (2017) (Theatrical Version)|1.0|3.86178861789
+Jaime|The LEGO Batman Movie|5.0|4.11111111111
+anonymous|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.20647773279
+Kaitlin|Murder on the Orient Express|5.0|3.79816513761
+Papa T|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+DiL|Dunkirk|4.0|3.38580246914
+Richard B.|Wonder Woman|4.0|4.63069544365
+Ho Ka Ming|Annabelle Creation|2.0|4.15
+Penny|Jumanji: Welcome To The Jungle|5.0|4.18045112782
+Daniel K. Worden|Kong: Skull Island|3.0|3.92111959288
+Michael Kim|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+E.W.|Spider-Man: Homecoming|4.0|3.9413202934
+Bucky55|The Shape of Water|1.0|3.56213017751
+Maria|John Wick|5.0|4.49196787149
+Patrick Joos|Thor: Ragnarok (Theatrical Version)|5.0|4.11764705882
+Ray|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.20647773279
+debo|John Wick|4.0|4.49196787149
+Sue|The Post|5.0|3.24137931034
+j|Baby Driver|1.0|3.92366412214
+Patricia Daniels|Wonder Woman|5.0|4.63069544365
+AH|A Dog's Purpose|5.0|4.4845814978
+Caleb|Blade Runner 2049|5.0|3.63395225464
+Francine Warren|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.86178861789
+Lexx|Coco (Theatrical Version)|5.0|4.6338028169
+Mason|Despicable Me 3|3.0|4.08620689655
+S. Johnson|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+Mars|Wonder Woman|3.0|4.63069544365
+John|The Shack|5.0|1.0
+M D Morgan|Kong: Skull Island|4.0|3.92111959288
+LynnW.|Blade Runner 2049|3.0|3.63395225464
+Mike|The LEGO NINJAGO Movie|5.0|3.0
+Hombreduro|Wonder Woman|5.0|4.63069544365
+JWINK|Three Billboards Outside Ebbing, Missouri|3.0|3.96638655462
+Timothy W.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+KBC|Wonder|5.0|4.70454545455
+Mary H.|A Dog's Purpose|5.0|4.4845814978
+Ryan Short|Wonder Woman|5.0|4.63069544365
+Uly S.|Spider-Man: Homecoming|4.0|3.9413202934
+Joe|Wonder Woman|5.0|4.63069544365
+Belinda|The Shack|5.0|4.25842696629
+regis harvell|War for the Planet of the Apes|5.0|3.85611510791
+Chris|Murder on the Orient Express|5.0|5.0
+pmaubo|Dunkirk|5.0|3.38580246914
+rj|Blade Runner 2049|5.0|3.63395225464
+Lori Brown|Wonder Woman|3.0|4.63069544365
+Kitty Coleman|Despicable Me 3|5.0|4.08620689655
+Boz|Kong: Skull Island|1.0|3.92111959288
+Micah|Darkest Hour|5.0|4.31292517007
+EJ|Kong: Skull Island|5.0|3.92111959288
+amazon customer|Kong: Skull Island|4.0|3.92111959288
+Bridget Barron|Baywatch|5.0|3.5756097561
+Bill|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.20647773279
+Donald Wayne Gresham Jr|The Shape of Water|4.0|3.56213017751
+Annie|Darkest Hour|1.0|4.31292517007
+Diana Howard|Jumanji: Welcome To The Jungle|5.0|4.18045112782
+Mr B|Dunkirk|5.0|3.38580246914
+jon|Transformers: The Last Knight|2.0|3.6626984127
+C. A. G.|Kingsman: The Golden Circle|2.0|3.00628930818
+Vic|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.20647773279
+MH|Coco (Theatrical Version)|5.0|4.6338028169
+joseph A Hamm|Fifty Shades Darker (Unrated Version)|4.0|3.6261682243
+Jennifer|A Dog's Purpose|5.0|4.4845814978
+manncer|The Shape of Water|2.0|3.56213017751
+hotdog12|John Wick|5.0|4.49196787149
+dansedufeu|Kingsman: The Golden Circle|1.0|3.00628930818
+LittleTx|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.37656903766
+Luvtoshop|Kingsman: The Golden Circle|2.0|3.00628930818
+Jaime Hernandez|Murder on the Orient Express|5.0|3.79816513761
+D.M.|Get Out|5.0|3.87658227848
+E Bay Z1|Blade Runner 2049|5.0|3.63395225464
+Sidney|Transformers: The Last Knight|2.0|3.6626984127
+Yongbing1|Dunkirk|3.0|3.38580246914
+OlyNomad|Girls Trip|3.0|4.384
+Amazon Customer|Dunkirk|1.0|1.0
+Julian Pope|Blade Runner 2049|5.0|3.63395225464
+Martha|Wonder|5.0|4.70454545455
+Todd M.|The Mummy (2017)|2.0|3.29787234043
+Storyteller Studios|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.85046728972
+Daniel D.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+shelly|Spider-Man: Homecoming|5.0|3.9413202934
+mark|Blade Runner 2049|5.0|3.63395225464
+James R O'Hara|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.86178861789
+joseph|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+Kindle Customer|The Shack|5.0|3.0
+N. Hernandez|Wonder Woman|3.0|4.63069544365
+w. mycroft|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.85046728972
+Jacki|Alien: Covenant|3.0|2.96610169492
+happy customer|A Dog's Purpose|5.0|4.4845814978
+Poseidon|John Wick|4.0|4.49196787149
+Robert L|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|2.0|3.85046728972
+Scott B.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+Shawn Maguire|A Dog's Purpose|4.0|4.4845814978
+Patricia|Coco (Theatrical Version)|5.0|4.6338028169
+C. A. Luster|Jumanji: Welcome To The Jungle|5.0|4.18045112782
+Ron Rossmann|Split|4.0|4.06274509804
+Donna|The LEGO Batman Movie|4.0|4.11111111111
+Shirley|Wonder|5.0|4.70454545455
+cheech|The Emoji Movie|4.0|4.0198019802
+Tammy J|The Mummy (2017)|5.0|3.29787234043
+Herbert L. Anderson|Baywatch|3.0|3.5756097561
+Lobstah|John Wick|3.0|4.49196787149
+KG|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.20647773279
+SR|The LEGO Batman Movie|5.0|4.11111111111
+Fraser|The Boss Baby|5.0|4.03896103896
+Ted|Star Wars: The Last Jedi (With Bonus Content)|2.0|3.20647773279
+mw|The Shack|5.0|4.25842696629
+T.G.|Daddy's Home 2|5.0|3.9696969697
+Colin|Kingsman: The Golden Circle|1.0|3.00628930818
+V Joinz|Kong: Skull Island|5.0|3.92111959288
+Keith Brown|John Wick|5.0|4.49196787149
+DJ|The Post|5.0|3.24137931034
+Roger Wiles|Blade Runner 2049|4.0|3.63395225464
+Kathleen|Split|1.0|4.06274509804
+Susan E. Fleishman|Ferdinand |5.0|4.46153846154
+Ralph|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.20647773279
+DC|Coco (Theatrical Version)|5.0|4.6338028169
+Cliente de Amazon|Get Out|4.0|3.87658227848
+Derald Marti|Cars 3 (Theatrical)|5.0|4.50649350649
+Jim S.|John Wick|5.0|4.49196787149
+Lynne|Darkest Hour|5.0|4.31292517007
+Walter|Baywatch|5.0|3.5756097561
+Jeffrey|John Wick|5.0|4.49196787149
+Tristan|Split|1.0|4.06274509804
+Jesse J|Blade Runner 2049|5.0|3.63395225464
+Batman|Spider-Man: Homecoming|5.0|3.9413202934
+LJ|Wonder Woman|5.0|4.63069544365
+Sean Follett|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+J. Lee|Transformers: The Last Knight|1.0|3.6626984127
+Luis Aguirre|Spider-Man: Homecoming|5.0|3.9413202934
+Miranda|The LEGO Batman Movie|5.0|4.11111111111
+Too Busy to Go to Store Mom|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.85046728972
+Tracy|Murder on the Orient Express|4.0|3.79816513761
+William Hefner|Spider-Man: Homecoming|3.0|3.9413202934
+Customer|Blade Runner 2049|5.0|3.63395225464
+Kelly Groce|Blade Runner 2049|4.0|3.63395225464
+Phil|Alien: Covenant|2.0|2.96610169492
+Susan H.|A Dog's Purpose|2.0|4.4845814978
+PUMPsix|Star Wars: The Last Jedi (With Bonus Content)|2.0|3.20647773279
+D-man|War for the Planet of the Apes|2.0|3.85611510791
+Kreg|Get Out|5.0|3.87658227848
+Foul Pet|Thor: Ragnarok (Theatrical Version)|3.0|4.11764705882
+F M Hall|Spider-Man: Homecoming|2.0|3.9413202934
+Allison|Fifty Shades Darker (Unrated Version)|4.0|3.6261682243
+mac|Dunkirk|3.0|3.38580246914
+Mz. G|Baby Driver|5.0|3.92366412214
+Christian|Spider-Man: Homecoming|3.0|3.9413202934
+Sophie|Dunkirk|5.0|3.38580246914
+In Montana|The Shape of Water|2.0|3.56213017751
+Ali|Girls Trip|1.0|4.384
+Julia|Coco (Theatrical Version)|5.0|4.6338028169
+Pandoras Box|War for the Planet of the Apes|5.0|3.85611510791
+MICHAEL JARVIS|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.37656903766
+adam|The Post|1.0|3.24137931034
+vickie|The Shack|5.0|4.25842696629
+KC Three|Spider-Man: Homecoming|5.0|3.9413202934
+Houziwang68|Spider-Man: Homecoming|3.0|3.9413202934
+folds_10/review_fold_4.txt
+NS Phoenix|Justice League|5.0|4.20338983051
+Garry Webber|Kong: Skull Island|5.0|3.89501312336
+BC|Blade Runner 2049|5.0|3.63783783784
+Pantoner|Three Billboards Outside Ebbing, Missouri|4.0|3.95689655172
+Credus|Spider-Man: Homecoming|5.0|3.94763092269
+Catherine Routh|Wonder|5.0|4.6976744186
+Action|The Boss Baby|5.0|4.02678571429
+Phyllis Hansell|The Shape of Water|5.0|3.53374233129
+Mike Billington author of Blood Debt|Kong: Skull Island|3.0|3.89501312336
+Anne|Spider-Man: Homecoming|5.0|3.94763092269
+G. Martin|The Shack|5.0|4.24324324324
+Christopher Williams|Transformers: The Last Knight|2.0|3.69758064516
+Lynne Butler|John Wick|5.0|4.48971193416
+Bethany Myers|Captain Underpants: The First Epic Movie|5.0|4.13684210526
+Peggy|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+member2002|Annabelle Creation|4.0|4.15189873418
+Bianca|Pitch Perfect 3|5.0|3.69444444444
+mother superior|Spider-Man: Homecoming|2.0|3.94763092269
+Tinker|The Shack|5.0|4.24324324324
+lori|Wonder Woman|3.0|4.64691358025
+Robert A Brookman|Wonder Woman|5.0|4.64691358025
+RB|Kong: Skull Island|5.0|3.89501312336
+Collin|A Dog's Purpose|1.0|4.5
+Forrest W. Merchant|Baywatch|3.0|3.56060606061
+Cattalina|Kong: Skull Island|5.0|3.89501312336
+David M.|A Dog's Purpose|2.0|4.5
+D. Miller|The Shack|5.0|4.24324324324
+chris quam|A Bad Moms Christmas|5.0|3.36764705882
+BR IMAGING|Kong: Skull Island|4.0|3.89501312336
+Brittany|Fifty Shades Darker (Unrated Version)|5.0|3.6213592233
+Steph|The Shack|5.0|4.24324324324
+Aim|The Shack|5.0|4.24324324324
+jill jones|Cars 3 (Theatrical)|5.0|4.53424657534
+Elizabeth|Spider-Man: Homecoming|5.0|3.94763092269
+Carrie|The Shape of Water|5.0|3.53374233129
+G. W. lewis|Kong: Skull Island|5.0|3.89501312336
+gka4154|Split|5.0|4.06477732794
+JL|Dunkirk|4.0|3.3949044586
+R. Carter|Beauty and the Beast (2017) (Theatrical Version)|4.0|3.85950413223
+alex|Blade Runner 2049|1.0|3.63783783784
+Pamela Brooks-Grimes|Get Out|5.0|3.88636363636
+Stephanie H.|Wonder|5.0|4.6976744186
+Ret Carp|Blade Runner 2049|2.0|3.63783783784
+Joseph G. Hyland|Spider-Man: Homecoming|5.0|3.94763092269
+KD|The Emoji Movie|5.0|3.98969072165
+Bradley|John Wick|5.0|4.48971193416
+Tonalli G.|Blade Runner 2049|5.0|3.63783783784
+Katrina|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+Rick F.|Daddy's Home 2|4.0|4.0
+D4mitch|John Wick|5.0|4.48971193416
+Karen L. Fields|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+Glen|John Wick|4.0|4.48971193416
+Renee|Justice League|5.0|4.20338983051
+SYLVESTER|Dunkirk|5.0|3.3949044586
+Theo Mindell|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|1.0|3.8672985782
+Darren|Baywatch|3.0|3.56060606061
+Joseph|Dunkirk|1.0|3.3949044586
+Sylvia|Spider-Man: Homecoming|5.0|3.94763092269
+Brandon James|Justice League|5.0|4.20338983051
+Golden Lion|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.2
+Damon Alan - Author|A Dog's Purpose|5.0|4.5
+peter|Cars 3 (Theatrical)|5.0|4.53424657534
+S. Warren|John Wick|5.0|4.48971193416
+Carole|Wonder Woman|5.0|4.64691358025
+Jessica|Dunkirk|1.0|1.0
+Tm26|The Boss Baby|5.0|4.02678571429
+Pamela A. Charyszyn|Wonder|5.0|4.6976744186
+Desert Denizen|Dunkirk|3.0|3.3949044586
+tml|Kong: Skull Island|5.0|3.89501312336
+Jon|John Wick|5.0|4.48971193416
+Susan|Transformers: The Last Knight|2.0|3.69758064516
+Christopher Schwinger|The Boss Baby|4.0|4.02678571429
+Pamela Guinn|The Mummy (2017)|4.0|3.27567567568
+Rennie Woodhouse|Jumanji: Welcome To The Jungle|5.0|4.18461538462
+Vonster|War for the Planet of the Apes|5.0|3.83823529412
+Boo|Get Out|2.0|3.88636363636
+Amber Terry|Baywatch|5.0|3.56060606061
+shopdrawingwizard|War for the Planet of the Apes|5.0|3.83823529412
+MontgomerySlim|Alien: Covenant|1.0|3.0
+Veronica|The Shape of Water|5.0|3.53374233129
+Madison|Get Out|5.0|3.88636363636
+Angie|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.38744588745
+Jason|Thor: Ragnarok (Theatrical Version)|3.0|4.13432835821
+Chad|Wonder Woman|5.0|4.64691358025
+Marklar|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+Crewch|Split|4.0|4.06477732794
+amanda|Transformers: The Last Knight|1.0|3.69758064516
+I'm Just Sayin'...|Kingsman: The Golden Circle|4.0|2.97435897436
+Kenya Starflight|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.38744588745
+MJ|Wonder Woman|4.0|4.64691358025
+Barb|John Wick|4.0|4.48971193416
+Noah M.|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.38744588745
+Mel P.|Split|5.0|4.06477732794
+Ashley D. R.|Split|3.0|4.06477732794
+Naomi|Baywatch|4.0|3.56060606061
+Dawn|Baywatch|5.0|3.56060606061
+S K O T T D.|Kong: Skull Island|5.0|3.89501312336
+big dawg|Darkest Hour|5.0|4.33103448276
+Adam Rodriguez|The LEGO NINJAGO Movie|5.0|4.21276595745
+A Grunden|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|2.0|3.8672985782
+Timothy|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+Flyguy|Baby Driver|3.0|3.93410852713
+Mrs.R|Girls Trip|5.0|4.38524590164
+rachel|Fifty Shades Darker (Unrated Version)|1.0|3.6213592233
+Victoria Surowiec|Kingsman: The Golden Circle|5.0|2.97435897436
+Heff|Guardians of the Galaxy Vol. 2 (Theatrical)|1.0|4.38744588745
+Nico Vela|Dunkirk|4.0|3.3949044586
+Storm|The Boss Baby|5.0|4.02678571429
+Willie|John Wick|5.0|4.48971193416
+Amazonian|Fifty Shades Darker (Unrated Version)|5.0|3.6213592233
+NH|Three Billboards Outside Ebbing, Missouri|4.0|3.95689655172
+JBSOLO007|Wonder Woman|4.0|4.64691358025
+David Johnson|Dunkirk|3.0|3.3949044586
+Tweetyluv|The Boss Baby|5.0|4.02678571429
+Matthew B.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+James A. Muldowney|Blade Runner 2049|5.0|3.63783783784
+andy|Kong: Skull Island|5.0|3.89501312336
+Michael E.|Justice League|5.0|4.20338983051
+R. Laryea|Baby Driver|4.0|3.93410852713
+Public Voice|Blade Runner 2049|1.0|3.63783783784
+Ben|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+Justin|The Shape of Water|5.0|3.53374233129
+Environmental Initiaitves of North America|Jumanji: Welcome To The Jungle|4.0|4.18461538462
+Mary J Fain|Murder on the Orient Express|4.0|3.81308411215
+babs|Despicable Me 3|5.0|4.0701754386
+WakkyWabbit|Spider-Man: Homecoming|1.0|3.94763092269
+Glen Z|Three Billboards Outside Ebbing, Missouri|5.0|3.95689655172
+Eilene|Beauty and the Beast (2017) (Theatrical Version)|4.0|3.85950413223
+Michael Johnson|The Shape of Water|1.0|3.53374233129
+Lindsey|Captain Underpants: The First Epic Movie|4.0|4.13684210526
+JUSTIN ASSALONE|Blade Runner 2049|5.0|3.63783783784
+Jeff|Alien: Covenant|2.0|3.0
+Toni|The LEGO NINJAGO Movie|4.0|4.21276595745
+Whitney C. Connors-pasion|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+SP|Split|5.0|4.06477732794
+Haley|Get Out|5.0|3.88636363636
+mary|Wonder Woman|5.0|4.64691358025
+AlchemystAZ|The Shack|3.0|4.24324324324
+Hippie Slayer|Guardians of the Galaxy Vol. 2 (Theatrical)|1.0|4.38744588745
+Kasia|The Emoji Movie|5.0|3.98969072165
+Willie A. Green|War for the Planet of the Apes|4.0|3.83823529412
+Ed|Dunkirk|4.0|3.3949044586
+Reviewer|Alien: Covenant|2.0|3.0
+Mirrorproimage|Get Out|5.0|3.88636363636
+Dr. Vicky Campagna|The Shape of Water|5.0|3.53374233129
+Leesaa|A Dog's Purpose|4.0|4.5
+Pat|Jumanji: Welcome To The Jungle|3.0|4.18461538462
+Wendy|A Dog's Purpose|5.0|4.5
+Jennie Lambert|John Wick|5.0|4.48971193416
+Sara|A Dog's Purpose|5.0|4.5
+redlin51|Dunkirk|5.0|3.3949044586
+Carolinboston|Cars 3 (Theatrical)|1.0|4.53424657534
+Nora|The Boss Baby|2.0|4.02678571429
+DSac|Baby Driver|5.0|3.93410852713
+Ginger|The Shack|5.0|4.24324324324
+Miguel|Girls Trip|5.0|4.38524590164
+DT|Wonder Woman|5.0|4.64691358025
+Just my opinion|Guardians of the Galaxy Vol. 2 (Theatrical)|1.0|4.38744588745
+Jo|Wonder Woman|1.0|4.64691358025
+no|Spider-Man: Homecoming|1.0|3.94763092269
+ollie m cline|The Emoji Movie|4.0|3.98969072165
+Dave Keener|Kong: Skull Island|5.0|3.89501312336
+Danielek|Baywatch|4.0|3.56060606061
+KIM BASS|The Boss Baby|5.0|4.02678571429
+Rosendo Sanchez|Coco (Theatrical Version)|5.0|4.61764705882
+Josh Hicks|Coco (Theatrical Version)|5.0|4.61764705882
+nick|Kong: Skull Island|5.0|3.89501312336
+Robert K.|A Dog's Purpose|5.0|4.5
+Paula|Girls Trip|3.0|4.38524590164
+Kat|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38744588745
+jaime gooding|The LEGO Batman Movie|1.0|4.12299465241
+I. Smith|Fifty Shades Darker (Unrated Version)|4.0|3.6213592233
+Miranda C Seymour|Split|1.0|4.06477732794
+ThunderHawk|Split|4.0|4.06477732794
+A German Amazon Customer|Alien: Covenant|1.0|3.0
+AJ|John Wick|3.0|4.48971193416
+Realalien|Wonder Woman|3.0|4.64691358025
+April|A Dog's Purpose|5.0|4.5
+mr. contrarian|Get Out|1.0|3.88636363636
+Cripbilly|Split|5.0|4.06477732794
+Dennis Rogers|Baywatch|4.0|3.56060606061
+scott r kindelsperger|Wonder Woman|4.0|4.64691358025
+Matthew R. Jacks|Star Wars: The Last Jedi (With Bonus Content)|3.0|3.2
+Carlos|John Wick|4.0|4.48971193416
+Lee|Daddy's Home 2|1.0|4.0
+None of Your Business|Get Out|1.0|3.88636363636
+Kristal Oden|Pitch Perfect 3|5.0|3.69444444444
+Olivia|Dunkirk|1.0|3.3949044586
+Charles|Kingsman: The Golden Circle|5.0|2.97435897436
+Private|The LEGO Batman Movie|5.0|4.12299465241
+Kirk A.|The Mummy (2017)|5.0|3.27567567568
+folds_10/review_fold_5.txt
+Brian Penning|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.86764705882
+Nikki|The Shack|5.0|4.23622047244
+BeachAnchor|Blade Runner 2049|5.0|3.62222222222
+steve|John Wick|5.0|4.49152542373
+JM|Kingsman: The Golden Circle|4.0|2.95394736842
+Hiram Gòmez Pardo Venezuela|Murder on the Orient Express|5.0|3.76699029126
+Randy|Baby Driver|5.0|3.92578125
+Tickler|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3864628821
+Deb Frey Webb|Transformers: The Last Knight|4.0|3.69547325103
+Leo|Alien: Covenant|1.0|3.03550295858
+Anna|Split|2.0|4.09090909091
+Happy|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.20168067227
+Travis M.|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.86764705882
+isabeisabella  Mara!!|Kong: Skull Island|4.0|3.88888888889
+Nena|Despicable Me 3|4.0|4.05454545455
+Elizabeth H|A Dog's Purpose|4.0|4.5
+BW|Baywatch|2.0|3.56770833333
+Kristin|Daddy's Home 2|4.0|3.98947368421
+RC|Justice League|5.0|4.18918918919
+Dipingo|The Boss Baby|5.0|4.03181818182
+Michael Martin|Wonder Woman|5.0|4.64376590331
+Ashley|The Emoji Movie|5.0|3.97916666667
+Flossie Cox|A Dog's Purpose|4.0|4.5
+Kristin B.|The Shack|5.0|4.23622047244
+Guy Beardmen|Blade Runner 2049|5.0|3.62222222222
+J|Get Out|5.0|3.8903654485
+GG|Alien: Covenant|1.0|3.03550295858
+P|The Boss Baby|2.0|4.03181818182
+Paul Allaer|Darkest Hour|4.0|4.31914893617
+MiRSD|Dunkirk|5.0|3.3961038961
+S. A.|Kong: Skull Island|5.0|3.88888888889
+Dugan|Murder on the Orient Express|5.0|3.76699029126
+Noah|Annabelle Creation|5.0|4.14473684211
+NC. movie man|Kingsman: The Golden Circle|5.0|2.95394736842
+Sheri|Kingsman: The Golden Circle|5.0|2.95394736842
+Michele|Split|1.0|4.09090909091
+kevin reppert|Justice League|3.0|4.18918918919
+Chrissy|Kong: Skull Island|4.0|3.88888888889
+Daniel|Justice League|4.0|4.18918918919
+halie|War for the Planet of the Apes|5.0|3.85384615385
+Abel|Coco (Theatrical Version)|5.0|4.66666666667
+Suzanne|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3864628821
+It's Me A|John Wick|4.0|4.49152542373
+Sandy|John Wick|4.0|4.49152542373
+K.W.|War for the Planet of the Apes|1.0|3.85384615385
+Son and Mom|Despicable Me 3|5.0|4.05454545455
+Dorothea L.|Darkest Hour|5.0|4.31914893617
+Miss T|Wonder Woman|5.0|4.64376590331
+Alan T.|The Mummy (2017)|4.0|3.27528089888
+A. HODGES|Baywatch|5.0|3.56770833333
+Jane|Kingsman: The Golden Circle|1.0|2.95394736842
+Eugene|Blade Runner 2049|5.0|3.62222222222
+Janet O'Donnell|Jumanji: Welcome To The Jungle|5.0|4.17829457364
+Wolfden|Kong: Skull Island|4.0|3.88888888889
+Ken Bruce Jr|Kong: Skull Island|5.0|3.88888888889
+Randal R. Richey|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.20168067227
+kris|Cars 3 (Theatrical)|5.0|4.52112676056
+The Movie Guy|Baby Driver|5.0|5.0
+Brett|Spider-Man: Homecoming|1.0|3.95443037975
+Alan|Spider-Man: Homecoming|2.0|3.95443037975
+Robert M. Ryan|Wonder Woman|5.0|4.64376590331
+J. Galt|Split|2.0|4.09090909091
+Cheech|John Wick|3.0|4.49152542373
+Marilyn|War for the Planet of the Apes|3.0|3.85384615385
+Kristina|Girls Trip|5.0|4.36974789916
+Me|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.20168067227
+Agilebrainz|Three Billboards Outside Ebbing, Missouri|5.0|3.92857142857
+Valerie|Girls Trip|5.0|4.36974789916
+Route66Review|Kong: Skull Island|5.0|3.88888888889
+Keith LeBlanc|Baywatch|3.0|3.56770833333
+K|The Shape of Water|1.0|3.56603773585
+Atticus|Murder on the Orient Express|5.0|3.76699029126
+Spoiler 615|Star Wars: The Last Jedi (With Bonus Content)|2.0|3.20168067227
+Adam A. Wanderer|The Mummy (2017)|5.0|3.27528089888
+jdls|Wonder Woman|4.0|4.64376590331
+Yoda3647|Kong: Skull Island|5.0|3.88888888889
+R. Smith|John Wick|5.0|4.49152542373
+Johnny 2 Doggs|Blade Runner 2049|1.0|3.62222222222
+Jay B. Lane|Get Out|4.0|3.8903654485
+Bob|Kong: Skull Island|1.0|3.88888888889
+S. Bach|Three Billboards Outside Ebbing, Missouri|5.0|3.92857142857
+Patrick M.|Wonder Woman|5.0|4.64376590331
+Anita|Wonder Woman|3.0|4.64376590331
+Saliba|Get Out|5.0|3.8903654485
+Taylor|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.20168067227
+Neil|The Shack|3.0|4.23622047244
+Clark|John Wick|5.0|4.49152542373
+Cynthia|Dunkirk|1.0|3.3961038961
+K &amp; Q Marcus|Star Wars: The Last Jedi (With Bonus Content)|4.0|3.20168067227
+Shawn|Thor: Ragnarok (Theatrical Version)|4.0|4.12307692308
+grafdog|Blade Runner 2049|5.0|3.62222222222
+Sam's-Review|Annabelle Creation|5.0|4.14473684211
+MP|John Wick|5.0|4.49152542373
+Todd|The Mummy (2017)|5.0|3.27528089888
+Alan Brown|The Mummy (2017)|1.0|3.27528089888
+Mark J. House|Thor: Ragnarok (Theatrical Version)|5.0|4.12307692308
+pinguhk|Spider-Man: Homecoming|5.0|3.95443037975
+Dexter|Darkest Hour|5.0|4.31914893617
+Jeremy|Transformers: The Last Knight|1.0|3.69547325103
+josue correa|Justice League|5.0|4.18918918919
+soundstudio|Alien: Covenant|1.0|3.03550295858
+C. White|Blade Runner 2049|5.0|3.62222222222
+Reader|Wonder Woman|5.0|4.64376590331
+lorraine black|Get Out|1.0|3.8903654485
+Fred|Happy Death Day|3.0|4.11666666667
+A Time Traveler|Dunkirk|1.0|3.3961038961
+Anthony|Ferdinand |5.0|4.44
+Humberto|Coco (Theatrical Version)|1.0|4.66666666667
+Jodi A. Braford|Transformers: The Last Knight|5.0|3.69547325103
+Amazon_Customer|Daddy's Home 2|5.0|3.98947368421
+Kate M|The Mummy (2017)|2.0|3.27528089888
+NC|The LEGO Batman Movie|5.0|4.1043956044
+S.D.E.|Kong: Skull Island|3.0|3.88888888889
+Amy|A Dog's Purpose|5.0|4.5
+bay area woman from CA|Transformers: The Last Knight|4.0|3.69547325103
+Hawk|Get Out|4.0|3.8903654485
+Glitter|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.86764705882
+david Michael Volz|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.86764705882
+CK|Wonder|5.0|4.69291338583
+Gregory O'Shea|Justice League|4.0|4.18918918919
+Nicole Solomon|Wonder Woman|5.0|4.64376590331
+John S.|Dunkirk|3.0|3.3961038961
+Michael A~~~~|Blade Runner 2049|5.0|3.62222222222
+alain luke|Kong: Skull Island|5.0|3.88888888889
+Woodsy Niles|Spider-Man: Homecoming|3.0|3.95443037975
+Shane Michael|Split|5.0|5.0
+Robin Lynn Frank|Blade Runner 2049|5.0|3.62222222222
+Lilybay|The LEGO Batman Movie|4.0|4.1043956044
+boggydawggy|Cars 3 (Theatrical)|5.0|4.52112676056
+Brad|The Mummy (2017)|1.0|3.27528089888
+James Y.|Wonder Woman|5.0|4.64376590331
+Katie B.|Baywatch|2.0|3.56770833333
+James A Parra|Star Wars: The Last Jedi (With Bonus Content)|4.0|3.20168067227
+truckerbob|War for the Planet of the Apes|5.0|3.85384615385
+Lt. Frank Bullitt|Split|4.0|4.09090909091
+KJ|The Boss Baby|3.0|4.03181818182
+SW|Dunkirk|5.0|3.3961038961
+Kandy Buesa|The LEGO NINJAGO Movie|3.0|4.23913043478
+Joanne|The Shape of Water|2.0|3.56603773585
+Fred A Clark|Wonder Woman|5.0|4.64376590331
+Tony|War for the Planet of the Apes|4.0|3.85384615385
+jay|Wonder|5.0|4.69291338583
+Jenna|Blade Runner 2049|5.0|3.62222222222
+Nicole|The Shack|5.0|4.23622047244
+Jesse|Justice League|5.0|4.18918918919
+Wiildstar Pott|Spider-Man: Homecoming|5.0|3.95443037975
+Zalmorion the Fantastic|War for the Planet of the Apes|3.0|3.85384615385
+Gotenks|Baywatch|5.0|3.56770833333
+language lover|Three Billboards Outside Ebbing, Missouri|5.0|3.92857142857
+Tim Donahue|A Dog's Purpose|5.0|4.5
+Mark Turner|Split|5.0|4.09090909091
+jess|Happy Death Day|5.0|4.11666666667
+Allan A. Cimino|John Wick|5.0|4.49152542373
+Wicingas|Get Out|3.0|3.8903654485
+DR|John Wick|4.0|4.49152542373
+kevin|John Wick|3.0|4.49152542373
+pat|John Wick|5.0|4.49152542373
+Luke|John Wick|5.0|4.49152542373
+Scott H Cash|Justice League|5.0|4.18918918919
+yukio j morrison|Kong: Skull Island|5.0|3.88888888889
+bobbiej|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3864628821
+JamesT|Darkest Hour|5.0|4.31914893617
+Whitney_ATL|Captain Underpants: The First Epic Movie|1.0|4.17021276596
+Silver|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|1.0|3.86764705882
+S.B.|The Shape of Water|1.0|3.56603773585
+Ohbeonecanknowme|John Wick|5.0|4.49152542373
+Don|Baby Driver|5.0|3.92578125
+clairetoldmetochangemyscreenname|Wonder Woman|5.0|4.64376590331
+Christian and Andrea|The LEGO Batman Movie|5.0|4.1043956044
+Side Bar Review|Get Out|4.0|3.8903654485
+rogerdpack|The LEGO Batman Movie|5.0|4.1043956044
+Joseph M. Reninger|Kong: Skull Island|3.0|3.88888888889
+Terrance|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.3864628821
+**|Blade Runner 2049|1.0|3.62222222222
+Daisy|Girls Trip|5.0|4.36974789916
+CalFetts|The LEGO Batman Movie|5.0|4.1043956044
+Sophia|Wonder Woman|5.0|4.64376590331
+Chuck Craven|Transformers: The Last Knight|5.0|3.69547325103
+Brian Morgan|Dunkirk|5.0|3.3961038961
+Sharon Riley|Annabelle Creation|3.0|4.14473684211
+Ghost Master|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.86764705882
+danny|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.86764705882
+Robert W. Hammer|Spider-Man: Homecoming|5.0|3.95443037975
+Bluesky|Baywatch|3.0|3.56770833333
+jthetex|Three Billboards Outside Ebbing, Missouri|4.0|3.92857142857
+KarToon12|The Shape of Water|5.0|3.56603773585
+Martin Clearman|John Wick|4.0|4.49152542373
+JR-Texas|Murder on the Orient Express|5.0|3.76699029126
+MaryAnn|The Shack|5.0|4.23622047244
+Louis R.|The Boss Baby|5.0|4.03181818182
+J. DickersonSr|The Mummy (2017)|5.0|3.27528089888
+folds_10/review_fold_6.txt
+snowman|Dunkirk|4.0|3.39932885906
+Andy Waitstill|Get Out|5.0|3.88813559322
+Michael E. Vande|Darkest Hour|4.0|4.28776978417
+KS|The Shack|5.0|4.24899598394
+Robert Hearn SR|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.19913419913
+Unknown|The Shack|3.0|4.24899598394
+CH|Dunkirk|4.0|3.39932885906
+gail|Girls Trip|5.0|4.35897435897
+JH|Wonder Woman|5.0|4.64322916667
+rockergirl15|Fifty Shades Darker (Unrated Version)|4.0|3.6
+JK|John Wick|5.0|4.49462365591
+silverwolf66|Cars 3 (Theatrical)|5.0|4.50724637681
+Zach|Star Wars: The Last Jedi (With Bonus Content)|2.0|3.19913419913
+Kelsey|Get Out|5.0|3.88813559322
+Dory|Dunkirk|2.0|3.39932885906
+Emmanuel Gonzalez|A Dog's Purpose|3.0|4.50961538462
+Grod|The Mummy (2017)|3.0|3.27272727273
+Leah|The LEGO Batman Movie|2.0|4.1061452514
+101Eagle|Darkest Hour|5.0|4.28776978417
+W. Byron|Thor: Ragnarok (Theatrical Version)|5.0|4.08064516129
+David G|Despicable Me 3|1.0|4.11320754717
+James S.|Dunkirk|2.0|3.39932885906
+Kakazu|Cars 3 (Theatrical)|5.0|4.50724637681
+RJ|Kong: Skull Island|5.0|5.0
+Brutally Honest|Get Out|5.0|3.88813559322
+Kyle|Split|5.0|4.07172995781
+Thor|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.38926174497
+JB McCollum|Transformers: The Last Knight|1.0|3.69709543568
+Adam|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.19913419913
+GIA|Happy Death Day|4.0|4.12068965517
+Stella Carrier|Despicable Me 3|4.0|4.11320754717
+shadow|Murder on the Orient Express|4.0|3.75490196078
+Ash|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.38926174497
+james|Coco (Theatrical Version)|1.0|4.72727272727
+Frequent Amazon buyer|Kong: Skull Island|3.0|3.87605633803
+Dave Douglass|Three Billboards Outside Ebbing, Missouri|5.0|3.89908256881
+SageM|Wonder Woman|5.0|4.64322916667
+J.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38926174497
+George|Kong: Skull Island|4.0|3.87605633803
+James P. McDonald|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.87064676617
+TechnoMachinima1996|Split|5.0|4.07172995781
+gfw|A Bad Moms Christmas|5.0|3.34328358209
+Sarahbt98|A Bad Moms Christmas|1.0|3.34328358209
+j.|John Wick|3.0|4.49462365591
+Rnglenda|Baywatch|5.0|3.54497354497
+The Ring Man Here 2 See|Spider-Man: Homecoming|3.0|3.95865633075
+James Mace|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.19913419913
+David E. Baldwin|Baby Driver|5.0|3.896
+Tricia|The Shack|5.0|4.24899598394
+Bruce|Blade Runner 2049|5.0|3.60285714286
+Samuel|Get Out|3.0|3.88813559322
+Theresa|Kong: Skull Island|5.0|3.87605633803
+jennifer metivier|The Boss Baby|5.0|4.01860465116
+Tower21|The Boss Baby|5.0|4.01860465116
+Mark Jensen|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.38926174497
+Marcella Goin|Spider-Man: Homecoming|3.0|3.95865633075
+J. Horton|Kingsman: The Golden Circle|3.0|2.96666666667
+Emma|The Shape of Water|5.0|3.54545454545
+lee|Kong: Skull Island|4.0|3.87605633803
+Mo|A Dog's Purpose|5.0|4.50961538462
+93Vet|Spider-Man: Homecoming|4.0|3.95865633075
+American Samurai-Soldier|Blade Runner 2049|5.0|3.60285714286
+DSL|Alien: Covenant|5.0|3.02409638554
+Natalieg|Wonder Woman|5.0|4.64322916667
+Charles L. Woolweaver|Dunkirk|5.0|3.39932885906
+Christopher Terry|Kong: Skull Island|3.0|3.87605633803
+Shanti|Thor: Ragnarok (Theatrical Version)|5.0|4.08064516129
+Pam|The Boss Baby|5.0|4.01860465116
+Lonnie L Strum|A Dog's Purpose|4.0|4.50961538462
+Kris King|The Shape of Water|5.0|3.54545454545
+book lover|Blade Runner 2049|3.0|3.60285714286
+Bb|The Boss Baby|3.0|4.01860465116
+Digital Dreamer|A Dog's Purpose|5.0|4.50961538462
+Paul Long Jr|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38926174497
+Leila|Baby Driver|5.0|3.896
+regpinky|Baby Driver|5.0|3.896
+Galaxy|The Shape of Water|5.0|3.54545454545
+MS|John Wick|5.0|4.49462365591
+Doug|Alien: Covenant|3.0|3.02409638554
+Colleen|Jumanji: Welcome To The Jungle|5.0|4.20967741935
+Reed A Rummel|A Dog's Purpose|4.0|4.50961538462
+Jon Snow|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.19913419913
+cj|Wonder Woman|4.0|4.64322916667
+Matthew|Kong: Skull Island|5.0|3.87605633803
+James Turner|Split|5.0|4.07172995781
+Mikey|John Wick|4.0|4.49462365591
+Nick|The Greatest Showman|5.0|5.0
+tee_rose_29|Cars 3 (Theatrical)|5.0|4.50724637681
+David Smerchek|Kong: Skull Island|4.0|3.87605633803
+Kira|The LEGO Batman Movie|5.0|4.1061452514
+Jen|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|2.0|3.87064676617
+Chris G.|Blade Runner 2049|5.0|3.60285714286
+Dragonfly|Girls Trip|5.0|4.35897435897
+COLTOJ|A Dog's Purpose|5.0|4.50961538462
+Katie K|Murder on the Orient Express|3.0|3.75490196078
+Xerxies|Wonder Woman|5.0|4.64322916667
+Aviator Mario|Spider-Man: Homecoming|5.0|3.95865633075
+Kitty|The Mummy (2017)|4.0|3.27272727273
+Sandman|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.38926174497
+Melanie|Happy Death Day|4.0|4.12068965517
+Brian Ginter|Blade Runner 2049|5.0|3.60285714286
+BSH|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38926174497
+Tammy|Dunkirk|2.0|3.39932885906
+Carl|The LEGO Batman Movie|5.0|4.1061452514
+Beth|Kong: Skull Island|5.0|3.87605633803
+Kimberly Jefferson|Kong: Skull Island|5.0|3.87605633803
+Mr Jamz|Baywatch|5.0|3.54497354497
+Alexander|The Shack|4.0|4.24899598394
+CLM|Kong: Skull Island|5.0|3.87605633803
+B|Fifty Shades Darker (Unrated Version)|4.0|3.6
+Avid reader|Get Out|5.0|3.88813559322
+Patrick|Beauty and the Beast (2017) (Theatrical Version)|4.0|3.86554621849
+anthony|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.87064676617
+NiteWing|Jumanji: Welcome To The Jungle|5.0|4.20967741935
+Valerian M. Rose|Spider-Man: Homecoming|5.0|3.95865633075
+Rachael|The Boss Baby|5.0|4.01860465116
+Roger|A Dog's Purpose|4.0|4.50961538462
+Mark S|Kong: Skull Island|2.0|3.87605633803
+Witcher|Baby Driver|2.0|3.896
+The BW|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.19913419913
+Loftev1|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38926174497
+Joan M. Cummings|Three Billboards Outside Ebbing, Missouri|5.0|3.89908256881
+customer|The Shack|5.0|4.24899598394
+Michael Militello|Daddy's Home 2|5.0|3.96774193548
+Jaspal|Baby Driver|5.0|3.896
+Craig|Wonder|5.0|4.69047619048
+David McKenzie|Blade Runner 2049|5.0|3.60285714286
+Vince Lepera|Get Out|2.0|3.88813559322
+Cory|War for the Planet of the Apes|1.0|3.8828125
+SK|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.38926174497
+Ginger Marshall|Justice League|4.0|4.19266055046
+GN|John Wick|5.0|4.49462365591
+Peter|Dunkirk|3.0|3.39932885906
+Alex|Blade Runner 2049|1.0|3.60285714286
+Shannon|Beauty and the Beast (2017) (Theatrical Version)|3.0|3.86554621849
+Zwimmerz|Blade Runner 2049|4.0|3.60285714286
+A. Sharp|Kong: Skull Island|5.0|3.87605633803
+Richard|Split|5.0|4.07172995781
+CJ|Baby Driver|5.0|3.896
+gagiant|Kong: Skull Island|5.0|3.87605633803
+David Taylor|The Shape of Water|5.0|3.54545454545
+Josh|Jumanji: Welcome To The Jungle|3.0|4.20967741935
+brittany|Three Billboards Outside Ebbing, Missouri|5.0|3.89908256881
+erin|Jumanji: Welcome To The Jungle|2.0|4.20967741935
+shirley Nelson|Blade Runner 2049|5.0|3.60285714286
+Melissa|Dunkirk|1.0|3.39932885906
+saviora|Annabelle Creation|5.0|4.13333333333
+Courtney|Justice League|4.0|4.19266055046
+Whovian Nut|Captain Underpants: The First Epic Movie|5.0|4.16129032258
+Linda|The Shack|3.0|5.0
+Michael Randolph|Star Wars: The Last Jedi (With Bonus Content)|4.0|3.19913419913
+Nate|Spider-Man: Homecoming|5.0|3.95865633075
+sis|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38926174497
+Sarah❤|The Shape of Water|1.0|3.54545454545
+pack8712|Kong: Skull Island|4.0|3.87605633803
+Phoenix|Kingsman: The Golden Circle|1.0|2.96666666667
+Joan Jett  The Electric Guitar Hero|Blade Runner 2049|5.0|3.60285714286
+Lawrence L Comfort|Baby Driver|5.0|3.896
+vuitre_viejo|War for the Planet of the Apes|3.0|3.8828125
+Elizabeth A Gamble|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.87064676617
+Bob Ornelas|John Wick|5.0|4.49462365591
+Christy|Fifty Shades Darker (Unrated Version)|5.0|3.6
+Phyllis|Wonder Woman|5.0|4.64322916667
+kamal|Jumanji: Welcome To The Jungle|2.0|4.20967741935
+Def Billy|Spider-Man: Homecoming|2.0|3.95865633075
+Laude|Dunkirk|5.0|3.39932885906
+Dustin|John Wick|4.0|4.49462365591
+MindWar77|Get Out|3.0|3.88813559322
+TurtleBear|Thor: Ragnarok (Theatrical Version)|5.0|4.08064516129
+Mindy|Daddy's Home 2|5.0|3.96774193548
+N. Couch|Wonder Woman|4.0|4.64322916667
+Dom|Darkest Hour|5.0|4.28776978417
+suzietoo|Alien: Covenant|1.0|3.02409638554
+sancti-spiritus|Alien: Covenant|5.0|3.02409638554
+Georgio Alfani|Dunkirk|1.0|3.39932885906
+Giudice  Ernest|Transformers: The Last Knight|5.0|3.69709543568
+Roman|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.38926174497
+TW Huey|Spider-Man: Homecoming|3.0|3.95865633075
+Jared|Wonder Woman|4.0|4.64322916667
+Call me KID|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.38926174497
+Daniel Blue|Wonder Woman|5.0|4.64322916667
+maria|Split|5.0|4.07172995781
+justme|Wonder Woman|5.0|4.64322916667
+Darlene|Baywatch|5.0|3.54497354497
+Linda D.|The Mummy (2017)|5.0|3.27272727273
+Some dude on the internet|John Wick|4.0|4.49462365591
+Leslie|Kong: Skull Island|5.0|3.87605633803
+Sean|The Shack|1.0|4.24899598394
+Max|Dunkirk|5.0|3.39932885906
+BG Boyd|Transformers: The Last Knight|2.0|3.69709543568
+folds_10/review_fold_7.txt
+Rich Whitcomb|Get Out|1.0|3.87719298246
+Ian|Dunkirk|5.0|3.4
+ron|Alien: Covenant|3.0|3.04347826087
+Kris|Kong: Skull Island|5.0|3.86842105263
+Tara|John Wick|4.0|4.5010989011
+M&amp;M|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40366972477
+JJ|Spider-Man: Homecoming|5.0|3.95989304813
+MSEV|Baby Driver|2.0|3.88796680498
+JD|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.875
+Maverick|Wonder|5.0|4.69105691057
+Kurt|Kingsman: The Golden Circle|4.0|2.9724137931
+JWG|Darkest Hour|5.0|4.28571428571
+Kathy|Wonder Woman|4.0|4.64879356568
+LEOJ-AMA DJINN|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.19298245614
+Tonyusmc|Split|5.0|4.06113537118
+Leo B|Alien: Covenant|2.0|3.04347826087
+Edmond Holly|Baby Driver|5.0|3.88796680498
+Bryan Gibson|Split|5.0|4.06113537118
+Jason N.|Daddy's Home 2|2.0|4.0
+Kevin C|Dunkirk|3.0|3.4
+A Girl from Inglewood|Get Out|5.0|3.87719298246
+hopechest|Wonder Woman|5.0|4.64879356568
+D. L. Jackson|Captain Underpants: The First Epic Movie|4.0|4.15384615385
+Henry E. Dorfman|Dunkirk|3.0|3.4
+David B|The LEGO Batman Movie|5.0|4.1186440678
+Debbie Cummings|Kong: Skull Island|5.0|3.86842105263
+SVH|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40366972477
+vivalasvegas|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40366972477
+Jackie|Alien: Covenant|3.0|3.04347826087
+Harley|The Boss Baby|1.0|4.04784688995
+whatleyghost|Spider-Man: Homecoming|3.0|3.95989304813
+Ronnie D. Davidson|Alien: Covenant|2.0|3.04347826087
+Stephanie E. Horn|The Shape of Water|5.0|3.53642384106
+Jeremy Crandall|John Wick|4.0|4.5010989011
+Jennifer Smith|A Dog's Purpose|5.0|4.50243902439
+Summer|The Mummy (2017)|1.0|3.28323699422
+Kevin S.|Blade Runner 2049|5.0|3.57848837209
+Golden Rj|Thor: Ragnarok (Theatrical Version)|4.0|4.08196721311
+Matthew D'Souza|Darkest Hour|5.0|4.28571428571
+Supaili|Get Out|5.0|3.87719298246
+AkSkimoFreak|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|4.0|3.875
+moviefan|The Emoji Movie|5.0|3.96842105263
+Eric T.|Captain Underpants: The First Epic Movie|5.0|4.15384615385
+Steven|The Mummy (2017)|2.0|3.28323699422
+sushil sontakke|Justice League|3.0|4.19626168224
+THowerton|Cars 3 (Theatrical)|4.0|4.51470588235
+Ann|Blade Runner 2049|5.0|3.57848837209
+Kenny Frye|Kong: Skull Island|5.0|3.86842105263
+art|The Boss Baby|5.0|4.04784688995
+Tim - Michigan|Spider-Man: Homecoming|3.0|3.95989304813
+Nashoba Losa|Jumanji: Welcome To The Jungle|4.0|4.22314049587
+Bearpupppy|Spider-Man: Homecoming|4.0|3.95989304813
+Debra|The Shack|1.0|4.26446280992
+Eddy|The Shack|5.0|4.26446280992
+sarah henderson|Despicable Me 3|5.0|4.09615384615
+Rick|Get Out|5.0|3.87719298246
+happy in SoCal|Baby Driver|3.0|3.88796680498
+Mr.Len|Kingsman: The Golden Circle|1.0|2.9724137931
+matt|Baby Driver|5.0|3.88796680498
+Matt Watford|Kong: Skull Island|5.0|3.86842105263
+muffyroberts|Kong: Skull Island|5.0|3.86842105263
+Terri|Baby Driver|4.0|3.88796680498
+Lady wild|Kong: Skull Island|4.0|3.86842105263
+fenx1200|Get Out|3.0|3.87719298246
+wisdomstar|The Boss Baby|5.0|4.04784688995
+Lex|Fifty Shades Darker (Unrated Version)|1.0|3.60416666667
+PK|Girls Trip|5.0|4.33628318584
+CB|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.875
+Batfire|Spider-Man: Homecoming|4.0|3.95989304813
+EnviroLux|The Post|5.0|3.17857142857
+D. Auman|Wonder Woman|4.0|4.64879356568
+Deano|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.40366972477
+Mk|Happy Death Day|4.0|4.10909090909
+David|Cars 3 (Theatrical)|5.0|5.0
+Samantha Ruskin|A Bad Moms Christmas|5.0|3.3125
+CommanderAlexander21|Split|5.0|4.06113537118
+Amanda|The Boss Baby|5.0|3.0
+cynthia r.|Get Out|5.0|3.87719298246
+William M.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40366972477
+Jimmy|Guardians of the Galaxy Vol. 2 (Theatrical)|1.0|4.40366972477
+Rockin' Rik|Baby Driver|4.0|3.88796680498
+Silverscarf|Dunkirk|2.0|3.4
+Ron|Kong: Skull Island|3.0|3.86842105263
+TJF|Darkest Hour|5.0|4.28571428571
+Carlos Perez|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40366972477
+Renmiu D Monsal Renmiueason - Smith|Fifty Shades Darker (Unrated Version)|4.0|3.60416666667
+Russell S|Baywatch|5.0|3.53225806452
+Trav|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.19298245614
+Gregory Brower|Dunkirk|5.0|3.4
+MR|Dunkirk|3.0|3.4
+Cameron|Get Out|4.0|3.87719298246
+stephanie|Get Out|5.0|3.87719298246
+Devin|John Wick|5.0|4.5010989011
+TJCrinc|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40366972477
+Jessie|The LEGO Batman Movie|1.0|4.1186440678
+cc|A Bad Moms Christmas|4.0|3.3125
+Juan|Coco (Theatrical Version)|5.0|4.72307692308
+Mary L|Fifty Shades Darker (Unrated Version)|5.0|3.60416666667
+loner|The Mummy (2017)|5.0|3.28323699422
+J.H|Spider-Man: Homecoming|5.0|3.95989304813
+katie|Wonder|5.0|4.69105691057
+David A. Hillman|Wonder Woman|5.0|4.64879356568
+Elements|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.875
+Graham G|Spider-Man: Homecoming|5.0|3.95989304813
+Canadian Gypsy|The Shack|4.0|4.26446280992
+RK|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.40366972477
+riley01|Beauty and the Beast (2017) (Theatrical Version)|3.0|3.87068965517
+Grady Harp|Three Billboards Outside Ebbing, Missouri|5.0|3.8785046729
+IslandGuppy|Wonder Woman|5.0|4.64879356568
+Tombstone-X|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|2.0|3.875
+kathy|A Dog's Purpose|5.0|4.50243902439
+Fred J Cannon|War for the Planet of the Apes|5.0|3.87401574803
+CC|Wonder Woman|5.0|4.64879356568
+BeMa|Dunkirk|2.0|3.4
+N. Franke|Wonder Woman|4.0|4.64879356568
+Robert B.|Dunkirk|2.0|3.4
+c moorhead|Baby Driver|5.0|3.88796680498
+Cali Frazz|Split|5.0|4.06113537118
+Adrian|John Wick|4.0|4.5010989011
+Telecom Herk|John Wick|4.0|4.5010989011
+Deb|Split|1.0|4.06113537118
+Consumer|Spider-Man: Homecoming|2.0|3.95989304813
+James Beswick|The Shape of Water|2.0|3.53642384106
+Eats Shoots And Leaves|Kong: Skull Island|3.0|3.86842105263
+M Tripp|Wonder Woman|5.0|4.64879356568
+Chris69|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.875
+SJ|The Shack|5.0|4.26446280992
+KP|Transformers: The Last Knight|3.0|3.71063829787
+Jenn|The Greatest Showman|5.0|5.0
+Timothy Flores|Blade Runner 2049|5.0|3.57848837209
+Emily R|The Boss Baby|1.0|4.04784688995
+m-chan|Blade Runner 2049|5.0|3.57848837209
+Cody|Dunkirk|5.0|3.4
+Diego|Alien: Covenant|2.0|3.04347826087
+DM|John Wick|5.0|4.5010989011
+alfred Shimizu|John Wick|5.0|4.5010989011
+todd|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.87068965517
+Shawn Fisher|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.40366972477
+Robert Macdonald|Baby Driver|4.0|3.88796680498
+SamHain|Jumanji: Welcome To The Jungle|5.0|4.22314049587
+melissa hale|Daddy's Home 2|4.0|4.0
+eric|Blade Runner 2049|5.0|3.57848837209
+Alex.S|Dunkirk|4.0|3.4
+Jacqueline|Kingsman: The Golden Circle|3.0|2.9724137931
+Jake|Happy Death Day|4.0|4.10909090909
+K. A. Williams|Kong: Skull Island|5.0|3.86842105263
+SimFanatic|Darkest Hour|3.0|4.28571428571
+Kerry Ralsten|Darkest Hour|5.0|4.28571428571
+Avid Reader|Transformers: The Last Knight|1.0|3.71063829787
+allenyk2000|Wonder Woman|5.0|4.64879356568
+Reginald Parker-Hollis|Girls Trip|5.0|4.33628318584
+jessica Kay|The Shack|3.0|4.26446280992
+Andrew|Transformers: The Last Knight|5.0|3.71063829787
+TLS|The Boss Baby|5.0|4.04784688995
+Catherine Card|Three Billboards Outside Ebbing, Missouri|5.0|3.8785046729
+Jack|Dunkirk|3.0|3.4
+scott calland|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.875
+Carol|The Shack|3.0|4.26446280992
+Whitt Patrick Pond|The Shape of Water|5.0|3.53642384106
+Jones|Fifty Shades Darker (Unrated Version)|4.0|3.60416666667
+Anthony L. Wallace|Split|4.0|4.06113537118
+Blue Dragonfly|Spider-Man: Homecoming|5.0|3.95989304813
+Mama Etefia|Spider-Man: Homecoming|5.0|3.95989304813
+phoenix|Darkest Hour|3.0|4.28571428571
+Monica|Beauty and the Beast (2017) (Theatrical Version)|3.0|3.87068965517
+Chelsea|Split|5.0|4.06113537118
+Doc|John Wick|4.0|4.5010989011
+Kathleen Madden|Spider-Man: Homecoming|4.0|3.95989304813
+M|The Boss Baby|1.0|4.04784688995
+Bernie|Pitch Perfect 3|5.0|3.64705882353
+Mullet the fisherman|John Wick|3.0|4.5010989011
+Becky|A Dog's Purpose|5.0|4.50243902439
+l.jones|Kingsman: The Golden Circle|5.0|2.9724137931
+Heidi|Transformers: The Last Knight|5.0|3.71063829787
+Lawrence Jones|Kong: Skull Island|4.0|3.86842105263
+Mari Squire|Girls Trip|5.0|4.33628318584
+ARS|Get Out|4.0|3.87719298246
+Aaron and Maddison Bayer|Kong: Skull Island|5.0|3.86842105263
+Frankie|Spider-Man: Homecoming|5.0|3.95989304813
+Wayne Klein|Murder on the Orient Express|5.0|3.74257425743
+M. Hines|Baywatch|4.0|3.53225806452
+Samara|Girls Trip|5.0|4.33628318584
+T. Travis|Dunkirk|2.0|3.4
+Donald|Wonder Woman|4.0|4.64879356568
+scoot|Kong: Skull Island|3.0|3.86842105263
+Joyce|A Bad Moms Christmas|3.0|3.3125
+colleen laford|Daddy's Home 2|5.0|4.0
+Dennis|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|1.0|3.875
+william stafford|Transformers: The Last Knight|4.0|3.71063829787
+Emily|Dunkirk|5.0|3.4
+folds_10/review_fold_8.txt
+robert smida|Transformers: The Last Knight|5.0|3.69469026549
+WJ Harper|Split|4.0|4.04888888889
+Jon B Woo|Blade Runner 2049|3.0|3.56626506024
+A Brogden|Blade Runner 2049|5.0|3.56626506024
+T Tweed|Blade Runner 2049|5.0|3.56626506024
+Security Professional|Baby Driver|4.0|3.88284518828
+cynthia|Get Out|5.0|3.87084870849
+Nita|Blade Runner 2049|2.0|3.56626506024
+Tyler|Get Out|5.0|3.87084870849
+Pamela|John Wick|5.0|4.50904977376
+AmazonCustomer4|Spider-Man: Homecoming|5.0|3.96467391304
+Stephen|John Wick|5.0|4.50904977376
+JE|Wonder Woman|5.0|4.64657534247
+Moses|Get Out|5.0|3.87084870849
+Matt|Wonder|5.0|4.68067226891
+Gina Wilck|The Shack|5.0|4.27467811159
+jnaki|War for the Planet of the Apes|5.0|3.86991869919
+tim|Star Wars: The Last Jedi (With Bonus Content)|2.0|3.19457013575
+booklover|Beauty and the Beast (2017) (Theatrical Version)|1.0|3.90265486726
+Patti King|A Dog's Purpose|5.0|4.48205128205
+Terry Hill|Dunkirk|3.0|3.38181818182
+Helen|Girls Trip|3.0|4.33636363636
+MO'Brien|Wonder Woman|5.0|4.64657534247
+E. A. Solinas|Kong: Skull Island|3.0|3.87164179104
+Joshua|The Boss Baby|3.0|4.039408867
+Wanda|A Dog's Purpose|5.0|4.48205128205
+Joe Laskowsky|The Mummy (2017)|3.0|3.28143712575
+D|Daddy's Home 2|5.0|3.98837209302
+D. Roberts|Spider-Man: Homecoming|5.0|3.96467391304
+MJL|Dunkirk|1.0|3.38181818182
+James|Kong: Skull Island|3.0|3.87164179104
+Terry|The Shape of Water|1.0|3.55172413793
+Michael|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|5.0
+Phacelesshero|Get Out|4.0|3.87084870849
+Grrdog|Three Billboards Outside Ebbing, Missouri|5.0|3.90476190476
+Raechelrocks|Dunkirk|5.0|3.38181818182
+Henry|Blade Runner 2049|3.0|3.56626506024
+Victor M. Ortiz Jr.|Dunkirk|4.0|3.38181818182
+Robin|Get Out|5.0|3.87084870849
+jaky|Fifty Shades Darker (Unrated Version)|1.0|3.64516129032
+earl|Kong: Skull Island|5.0|3.87164179104
+Mattwmc|Blade Runner 2049|5.0|3.56626506024
+Marvin Powell|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.3981264637
+ServantofGod|Star Wars: The Last Jedi (With Bonus Content)|4.0|3.19457013575
+Brenda|Get Out|5.0|3.87084870849
+KH|Wonder Woman|5.0|4.64657534247
+B+|Transformers: The Last Knight|5.0|3.69469026549
+Troy|John Wick|5.0|4.50904977376
+spandy|The Boss Baby|5.0|4.039408867
+clay|Transformers: The Last Knight|5.0|3.69469026549
+Allen|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.87958115183
+Paul|John Wick|5.0|4.50904977376
+Dwayne|The LEGO NINJAGO Movie|4.0|4.22727272727
+Brent|Dunkirk|4.0|3.38181818182
+MAB|Kingsman: The Golden Circle|5.0|2.97841726619
+Larry R. Baladez|The Shack|5.0|4.27467811159
+Teresa|The Shack|5.0|4.27467811159
+Richard Dunn|The Boss Baby|5.0|4.039408867
+Barry H. Ballard|Kong: Skull Island|3.0|3.87164179104
+whiplash|Transformers: The Last Knight|1.0|3.69469026549
+Brittney|Annabelle Creation|5.0|4.09722222222
+Andy|The Boss Baby|5.0|4.039408867
+Rich|A Dog's Purpose|5.0|4.48205128205
+RJ Wright|Alien: Covenant|2.0|3.03797468354
+Caroline|Murder on the Orient Express|3.0|3.75757575758
+jessica|The Shack|5.0|4.27467811159
+Susan J Montague|Fifty Shades Darker (Unrated Version)|2.0|3.64516129032
+Ken|John Wick|4.0|4.50904977376
+Meg|Transformers: The Last Knight|5.0|3.69469026549
+CEB|Wonder Woman|4.0|4.64657534247
+9Risks|Split|5.0|4.04888888889
+HAVIN FUN|Get Out|4.0|3.87084870849
+Lord Haw Haw|Blade Runner 2049|5.0|3.56626506024
+E. Ochoa|War for the Planet of the Apes|1.0|3.86991869919
+laura.weisenburge|The Emoji Movie|5.0|3.96666666667
+reader|Dunkirk|4.0|3.38181818182
+Shadowfax|The Mummy (2017)|2.0|3.28143712575
+Sally|The Shack|5.0|4.27467811159
+tommyboy|Wonder Woman|5.0|4.64657534247
+Isabella|A Dog's Purpose|5.0|4.48205128205
+William B|The Boss Baby|4.0|4.039408867
+SM|Blade Runner 2049|5.0|3.56626506024
+Cyclety68|John Wick|4.0|4.50904977376
+Nina|Girls Trip|5.0|4.33636363636
+maven_unltd|Jumanji: Welcome To The Jungle|5.0|4.21848739496
+ME|A Dog's Purpose|5.0|4.48205128205
+Chris D.|John Wick|3.0|4.50904977376
+Charles Austin Miller|Spider-Man: Homecoming|1.0|3.96467391304
+patti l perce|Fifty Shades Darker (Unrated Version)|4.0|3.64516129032
+home2wa|The Mummy (2017)|3.0|3.28143712575
+Max Snare|Dunkirk|5.0|3.38181818182
+Gryphonisle|Three Billboards Outside Ebbing, Missouri|4.0|3.90476190476
+B. J. Hoker|Kong: Skull Island|3.0|3.87164179104
+Lisa|Annabelle Creation|5.0|5.0
+CGI is the &#34;new&#34; lazy|The LEGO Batman Movie|2.0|4.12571428571
+Vickie|Get Out|3.0|3.87084870849
+FILM SNOB|Get Out|5.0|3.87084870849
+Tonya|John Wick|5.0|4.50904977376
+chris|Three Billboards Outside Ebbing, Missouri|1.0|3.90476190476
+Mo Terron|Transformers: The Last Knight|5.0|3.69469026549
+Milo the Cat|Blade Runner 2049|5.0|3.56626506024
+Joan L.|Kong: Skull Island|5.0|3.87164179104
+Mary P|Wonder Woman|5.0|4.64657534247
+Sara Said This....|Kingsman: The Golden Circle|3.0|2.97841726619
+Babydevol02|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.19457013575
+Joni|Star Wars: The Last Jedi (With Bonus Content)|3.0|3.19457013575
+David Pinnell|Justice League|5.0|4.19047619048
+rebecca adams|The Mummy (2017)|2.0|3.28143712575
+Bill F|Blade Runner 2049|4.0|3.56626506024
+Rob|John Wick|3.0|4.50904977376
+Sunny|Wonder|5.0|4.68067226891
+Megan|Kingsman: The Golden Circle|1.0|2.97841726619
+John D. Lewis|Jumanji: Welcome To The Jungle|5.0|4.21848739496
+Tammi Schmahl|Girls Trip|5.0|4.33636363636
+tom|John Wick|4.0|4.50904977376
+Mike F.|Wonder Woman|4.0|4.64657534247
+Wayne O Cameron Jr|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3981264637
+PocketSable|The LEGO Batman Movie|5.0|4.12571428571
+Rockmother|Transformers: The Last Knight|1.0|3.69469026549
+Christina|A Dog's Purpose|5.0|4.48205128205
+rebecca kay lott|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3981264637
+Mota|Blade Runner 2049|2.0|3.56626506024
+Sandra|The Shack|5.0|4.27467811159
+Paola|The Shape of Water|5.0|3.55172413793
+Michael P. Mcintire|Ferdinand |4.0|4.45833333333
+Chris Azzato|Get Out|1.0|3.87084870849
+Tommy|The Post|1.0|3.25925925926
+Scotamazon|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3981264637
+CrazyWalt90|Daddy's Home 2|3.0|3.98837209302
+No BS guy|Kong: Skull Island|3.0|3.87164179104
+Dee|Kingsman: The Golden Circle|3.0|2.97841726619
+Dina|Daddy's Home 2|5.0|3.98837209302
+Diana|Kong: Skull Island|4.0|3.87164179104
+William F. Nicholson III|Dunkirk|5.0|3.38181818182
+VictoriaSelene Skye~Deme|The Shape of Water|5.0|3.55172413793
+Inquisitive Guereza|Guardians of the Galaxy Vol. 2 (Theatrical)|3.0|4.3981264637
+Eddie|The Shape of Water|3.0|3.55172413793
+RobinUncommon|Spider-Man: Homecoming|5.0|3.96467391304
+George E. Eisinger|Baywatch|5.0|3.52688172043
+Joni Rose Aro|Murder on the Orient Express|3.0|3.75757575758
+KW|The Mummy (2017)|5.0|3.28143712575
+Lorrie|Justice League|4.0|4.19047619048
+Martha J.|Captain Underpants: The First Epic Movie|5.0|4.14444444444
+Jack E. Levic|The Shack|4.0|4.27467811159
+dino458|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.87958115183
+DK|Dunkirk|3.0|3.38181818182
+Bwils00y|Get Out|5.0|3.87084870849
+Angela|The Emoji Movie|4.0|3.96666666667
+Chris R|Kingsman: The Golden Circle|3.0|2.97841726619
+Edward|John Wick|4.0|4.50904977376
+Holly|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|5.0
+Sierra|The Boss Baby|4.0|4.039408867
+Murph|Wonder Woman|5.0|4.64657534247
+Susanne|A Dog's Purpose|5.0|4.48205128205
+Tribute|Star Wars: The Last Jedi (With Bonus Content)|3.0|3.19457013575
+80s rocker|Beauty and the Beast (2017) (Theatrical Version)|2.0|3.90265486726
+Cheryl|A Dog's Purpose|5.0|4.48205128205
+alton gurney|Transformers: The Last Knight|5.0|3.69469026549
+Sunshine|John Wick|4.0|4.50904977376
+Molly|Transformers: The Last Knight|5.0|3.69469026549
+SweetVioletRides|Alien: Covenant|5.0|3.03797468354
+Jeffery S. Marsh|The Shape of Water|4.0|3.55172413793
+brian|Cars 3 (Theatrical)|5.0|4.51470588235
+houston bittle|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3981264637
+carolyn o.|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3981264637
+Kim|The Shack|1.0|4.27467811159
+Amelia|The Emoji Movie|5.0|3.96666666667
+Andrea|Annabelle Creation|5.0|4.09722222222
+Marcus|Split|5.0|4.04888888889
+Ryan|Spider-Man: Homecoming|2.0|3.96467391304
+Greg|The Shack|5.0|4.27467811159
+L. C. PETEz|Split|5.0|4.04888888889
+Diane Knoll|Blade Runner 2049|3.0|3.56626506024
+CD|Star Wars: The Last Jedi (With Bonus Content)|3.0|3.19457013575
+CRISPY|War for the Planet of the Apes|5.0|3.86991869919
+prisrob|Jumanji: Welcome To The Jungle|4.0|4.21848739496
+Britt|Wonder|5.0|4.68067226891
+Joan's opinion|Get Out|4.0|3.87084870849
+Lili M|Wonder|5.0|4.68067226891
+RON B.|Get Out|4.0|3.87084870849
+Uchiha Itachi|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.3981264637
+KateD|The Emoji Movie|5.0|3.96666666667
+Brandan|Wonder Woman|5.0|4.64657534247
+Jess|The LEGO Batman Movie|5.0|4.12571428571
+Kara|Baby Driver|5.0|3.88284518828
+John B.|Star Wars: The Last Jedi (With Bonus Content)|3.0|3.19457013575
+Steve Niedermeyer|Baby Driver|5.0|3.88284518828
+Gabriella|John Wick|4.0|4.50904977376
+Cristina|A Dog's Purpose|5.0|4.48205128205
+Cataleya|Alien: Covenant|3.0|3.03797468354
+folds_10/review_fold_9.txt
+Keith C.|Baby Driver|1.0|3.90350877193
+Dean|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.18348623853
+Cspar|Dunkirk|2.0|3.38805970149
+Tiffeni Russo|Annabelle Creation|4.0|4.11428571429
+Deborah-Anne|Cars 3 (Theatrical)|5.0|4.47619047619
+Scott Brown|Blade Runner 2049|5.0|3.54658385093
+Donna S.|Kong: Skull Island|5.0|3.86335403727
+CS|Kingsman: The Golden Circle|4.0|2.95555555556
+Boricua|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.40380047506
+Sherry|John Wick|5.0|4.5034965035
+paul|Kong: Skull Island|5.0|3.86335403727
+Lilly|Guardians of the Galaxy Vol. 2 (Theatrical)|4.0|4.40380047506
+warren|Spider-Man: Homecoming|2.0|3.97759103641
+Marco|Blade Runner 2049|2.0|3.54658385093
+R C Anderson|Dunkirk|5.0|3.38805970149
+Mama Mia|Spider-Man: Homecoming|5.0|3.97759103641
+nikki|Split|5.0|4.03225806452
+Vic Mclendon|Kong: Skull Island|4.0|3.86335403727
+Casey|Baywatch|5.0|3.52197802198
+William F. James|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40380047506
+Marcy|Three Billboards Outside Ebbing, Missouri|4.0|3.89898989899
+Brooke|The Shape of Water|5.0|3.5
+CCOLA|Guardians of the Galaxy Vol. 2 (Theatrical)|1.0|4.40380047506
+cool|Get Out|5.0|3.83396226415
+Moe|Get Out|4.0|3.83396226415
+E. Anderson|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.88181818182
+Bobby|A Bad Moms Christmas|1.0|3.36666666667
+Karl Weaver|John Wick|4.0|4.5034965035
+Billy|John Wick|5.0|4.5034965035
+Anon|The LEGO Batman Movie|4.0|4.14117647059
+Laurie|Split|5.0|4.03225806452
+T|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.88181818182
+Shannon Little|Jumanji: Welcome To The Jungle|5.0|4.19469026549
+RichRay|Baby Driver|3.0|3.90350877193
+Sweet Spirit|The Shack|2.0|4.29694323144
+M in CA|Blade Runner 2049|5.0|3.54658385093
+Floridian|The Mummy (2017)|2.0|3.29012345679
+H. Alexander|Justice League|2.0|4.19607843137
+bobby|John Wick|5.0|4.5034965035
+Gary Hartworth|Dunkirk|5.0|3.38805970149
+AmazonCustomer|John Wick|5.0|4.5034965035
+John IV|Baby Driver|3.0|3.90350877193
+Connor Bonelli|The Shape of Water|4.0|3.5
+Aaron|Wonder Woman|4.0|4.64245810056
+S. Buchanan|Coco (Theatrical Version)|5.0|4.71875
+Carla|John Wick|5.0|4.5034965035
+Joshua H|Dunkirk|3.0|3.38805970149
+Gary|A Dog's Purpose|5.0|4.4793814433
+peter f.j.|Alien: Covenant|5.0|3.02597402597
+Jeff Farnsworth|Baywatch|4.0|3.52197802198
+James N Simpson|The Shape of Water|3.0|3.5
+S Miller|Kong: Skull Island|5.0|3.86335403727
+Rose|Beauty and the Beast (2017) (Theatrical Version)|5.0|3.88181818182
+Tim M|War for the Planet of the Apes|4.0|3.89075630252
+sweetpea9|Spider-Man: Homecoming|5.0|3.97759103641
+Brandon|The Emoji Movie|3.0|3.94444444444
+mike 67|Blade Runner 2049|5.0|3.54658385093
+JT|Kong: Skull Island|3.0|3.86335403727
+DCHagy|Annabelle Creation|3.0|4.11428571429
+J. Conrad Stambaugh|Kong: Skull Island|4.0|3.86335403727
+Jack Ryan|War for the Planet of the Apes|2.0|3.89075630252
+JF|War for the Planet of the Apes|3.0|3.89075630252
+Lady Gee 55|Split|5.0|4.03225806452
+Ken Kirk|War for the Planet of the Apes|4.0|3.89075630252
+Christian21|Despicable Me 3|5.0|4.07843137255
+richard|John Wick|5.0|4.5034965035
+Mel|Wonder|5.0|4.67521367521
+Bermeguy|Justice League|5.0|4.19607843137
+Fromdefo1|Baywatch|3.0|3.52197802198
+By CJs Pirate|Blade Runner 2049|5.0|3.54658385093
+Alucard|Jumanji: Welcome To The Jungle|5.0|4.19469026549
+Melissa LaCour|Kingsman: The Golden Circle|3.0|2.95555555556
+Kev|Happy Death Day|3.0|4.14545454545
+Keith|John Wick|5.0|4.5034965035
+GEL|A Bad Moms Christmas|3.0|3.36666666667
+Marty|John Wick|4.0|4.5034965035
+Kellie|Fifty Shades Darker (Unrated Version)|5.0|3.64516129032
+Oats|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40380047506
+T. Marble|The LEGO Batman Movie|3.0|4.14117647059
+Charlie|Cars 3 (Theatrical)|5.0|4.47619047619
+W. bowman|Baby Driver|3.0|3.90350877193
+Corey|Get Out|5.0|3.83396226415
+Barb Jones|Wonder Woman|5.0|4.64245810056
+David Woodworth|Guardians of the Galaxy Vol. 2 (Theatrical)|5.0|4.40380047506
+Russ|Kingsman: The Golden Circle|1.0|2.95555555556
+Customer Advocate|Alien: Covenant|1.0|3.02597402597
+Paco|Darkest Hour|5.0|4.26356589147
+Jeff A|Split|4.0|4.03225806452
+KY|Baywatch|4.0|3.52197802198
+MD|Blade Runner 2049|1.0|3.54658385093
+wiredweird|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|3.0|3.87234042553
+Pappy O'Hoolihan|The LEGO Batman Movie|5.0|4.14117647059
+Christopher G Smith|Kingsman: The Golden Circle|5.0|2.95555555556
+DorothyZ|Beauty and the Beast (2017) (Theatrical Version)|4.0|3.88181818182
+Erin|Cars 3 (Theatrical)|5.0|4.47619047619
+Roy|John Wick|4.0|4.5034965035
+Karen|Split|5.0|4.03225806452
+joshua lindsey|The LEGO Batman Movie|1.0|4.14117647059
+bob|Dunkirk|5.0|3.38805970149
+Cassie|A Dog's Purpose|5.0|4.4793814433
+Victor|War for the Planet of the Apes|5.0|3.89075630252
+joshua|Blade Runner 2049|5.0|3.54658385093
+Eli|Alien: Covenant|3.0|3.02597402597
+J. Daniel Spratlin|A Bad Moms Christmas|3.0|3.36666666667
+Donna Ross|Kong: Skull Island|4.0|3.86335403727
+JAZMYNE_13|Spider-Man: Homecoming|3.0|3.97759103641
+Jesse Harris|The Mummy (2017)|3.0|3.29012345679
+londongirl|Darkest Hour|5.0|4.26356589147
+Bryan Whitaker|The Mummy (2017)|5.0|3.29012345679
+Just My Opinion|The Mummy (2017)|3.0|3.29012345679
+M. Berlin|Blade Runner 2049|4.0|3.54658385093
+simplyforyou|The Shape of Water|5.0|3.5
+jay mcalliser|John Wick|5.0|4.5034965035
+JJCEO|John Wick|5.0|4.5034965035
+Star|Three Billboards Outside Ebbing, Missouri|5.0|3.89898989899
+Jeremiah|Star Wars: The Last Jedi (With Bonus Content)|5.0|3.18348623853
+Justin Tribble|Get Out|5.0|3.83396226415
+Mel C|Split|5.0|4.03225806452
+Jamie|The Shack|1.0|4.29694323144
+van nguyen|Spider-Man: Homecoming|5.0|3.97759103641
+The Narrator|Spider-Man: Homecoming|4.0|3.97759103641
+James Layman|Baby Driver|4.0|3.90350877193
+Mike D.|Spider-Man: Homecoming|1.0|3.97759103641
+Bryan|Spider-Man: Homecoming|5.0|3.97759103641
+mike|Three Billboards Outside Ebbing, Missouri|1.0|3.89898989899
+Fabulinus|The Mummy (2017)|4.0|3.29012345679
+Christine|A Dog's Purpose|4.0|4.4793814433
+LordMaul|Split|4.0|4.03225806452
+alan|Cars 3 (Theatrical)|5.0|4.47619047619
+John Doe|A Bad Moms Christmas|3.0|3.36666666667
+Jacob|Dunkirk|1.0|3.38805970149
+larry|Star Wars: The Last Jedi (With Bonus Content)|1.0|3.18348623853
+Walker|Dunkirk|1.0|3.38805970149
+RYAN DALLE-TEZZE|The Shape of Water|5.0|3.5
+Jean|Baby Driver|5.0|3.90350877193
+Book Reader|Darkest Hour|5.0|4.26356589147
+Ram  Stanger|The Shape of Water|5.0|3.5
+Janet A.|The Shape of Water|5.0|3.5
+Robert J. Redd|Three Billboards Outside Ebbing, Missouri|5.0|3.89898989899
+Von|Split|3.0|4.03225806452
+Diane|Kong: Skull Island|5.0|3.86335403727
+MaggieNow|Wonder|5.0|4.67521367521
+KT|Kingsman: The Golden Circle|1.0|2.95555555556
+deb|John Wick|5.0|4.5034965035
+Bubbabanjo|Alien: Covenant|5.0|3.02597402597
+Lg|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.87234042553
+B. Johnson|The Boss Baby|3.0|4.035
+DH|John Wick|4.0|4.5034965035
+Tori|Transformers: The Last Knight|5.0|3.71428571429
+Deanna|The LEGO Batman Movie|5.0|4.14117647059
+Brian B|Baby Driver|3.0|3.90350877193
+Thedevoted|Wonder Woman|5.0|4.64245810056
+Tj|The Boss Baby|5.0|4.035
+Rick thomas|Kong: Skull Island|4.0|3.86335403727
+Mike E. Walsh Jr.|Annabelle Creation|5.0|4.11428571429
+wingnut|Wonder Woman|5.0|4.64245810056
+Katzenmutti53|Blade Runner 2049|5.0|3.54658385093
+LD|The Shack|4.0|4.29694323144
+ROCKYMTNMALE|Baby Driver|5.0|3.90350877193
+L. Garnier|Get Out|5.0|3.83396226415
+M. Gordon|Jumanji: Welcome To The Jungle|4.0|4.19469026549
+Arthur S.|The Shape of Water|1.0|3.5
+James A. Moore|Wonder Woman|5.0|4.64245810056
+R. Coats|The Mummy (2017)|3.0|3.29012345679
+Koobie  Flatstone|Spider-Man: Homecoming|2.0|3.97759103641
+TC|Baby Driver|1.0|3.90350877193
+Jean-Marc Berne|Spider-Man: Homecoming|4.0|3.97759103641
+Ghost|Murder on the Orient Express|5.0|3.74489795918
+Turtle the Wise|Transformers: The Last Knight|1.0|3.71428571429
+Hollie|Annabelle Creation|4.0|4.11428571429
+Bob N|Wonder Woman|5.0|4.64245810056
+Endevour32|Kong: Skull Island|1.0|3.86335403727
+Alice|Jumanji: Welcome To The Jungle|4.0|4.19469026549
+Q|Kong: Skull Island|5.0|3.86335403727
+Rescue Dog Fan|Get Out|3.0|3.83396226415
+A. J.|Get Out|4.0|3.83396226415
+Alicia J.|Get Out|5.0|3.83396226415
+Trevor's View on Hollywood|Star Wars: The Last Jedi (With Bonus Content)|3.0|3.18348623853
+frank m|Three Billboards Outside Ebbing, Missouri|4.0|3.89898989899
+David Hirshorn|Kong: Skull Island|3.0|3.86335403727
+SDX|Spider-Man: Homecoming|2.0|3.97759103641
+Al|The Shack|1.0|4.29694323144
+victor williams|Baby Driver|5.0|3.90350877193
+JOhjos|The Emoji Movie|5.0|3.94444444444
+el viejo|Pirates of the Caribbean: Dead Men Tell No Tales (Theatrical Version)|5.0|3.87234042553
+Individual11|Guardians of the Galaxy Vol. 2 (Theatrical)|1.0|4.40380047506
+Stevenb|Wonder Woman|5.0|4.64245810056
+Kari|Split|5.0|4.03225806452
+Mitchell A. Bass|Transformers: The Last Knight|1.0|3.71428571429
+Masked Avenger|Darkest Hour|5.0|4.26356589147

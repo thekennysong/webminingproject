@@ -151,7 +151,7 @@ def main():
 
 
         cluster_results,user_cluster = cluster(vectors, numClusts, userIds)
-        #print "done with clustering"
+        #print cluster_results
 
         foldFile = open(fold_file, 'r')
 
@@ -179,23 +179,28 @@ def main():
             if len(clusteredRatings) == 0:
                 clusterId = user_cluster[user]
                 surroundingClusters = cluster_results[clusterId] 
-                for x in range(0,5):
-                    if(clusterId+x < len(cluster_results)):
-                        surroundingCluster = cluster_results[clusterId + x]
-                        for scUser in surroundingCluster:
-                            needMovieRating = curUVs[scUser][movieNeedingPrediction]
-                            if(needMovieRating > 0):
-                                clusteredRatings.append(needMovieRating)
-
-                if len(clusteredRatings) == 0:
-                    for x in range(0,5):
-                        if(clusterId > 5):
-                            surroundingCluster = cluster_results[clusterId - x]
+                incrementer = 0
+                while(len(clusteredRatings) == 0):
+                    for x in range(0,incrementer):
+                        if(clusterId+x < len(cluster_results)):
+                           
+                            surroundingCluster = cluster_results[clusterId + x]
+                        
                             for scUser in surroundingCluster:
                                 needMovieRating = curUVs[scUser][movieNeedingPrediction]
                                 if(needMovieRating > 0):
                                     clusteredRatings.append(needMovieRating)
 
+                    if len(clusteredRatings) == 0:
+                        for x in range(0,incrementer):
+                            if(clusterId > incrementer):
+                                surroundingCluster = cluster_results[clusterId - x]
+                                
+                                for scUser in surroundingCluster:
+                                    needMovieRating = curUVs[scUser][movieNeedingPrediction]
+                                    if(needMovieRating > 0):
+                                        clusteredRatings.append(needMovieRating)
+                    incrementer = incrementer + 1
 
             predictedRating = sum(clusteredRatings)/len(clusteredRatings)
 
