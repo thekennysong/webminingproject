@@ -180,11 +180,12 @@ def main():
                 clusterId = user_cluster[user]
                 surroundingClusters = cluster_results[clusterId] 
                 for x in range(0,5):
-                    surroundingCluster = cluster_results[clusterId + x]
-                    for scUser in surroundingCluster:
-                        needMovieRating = curUVs[scUser][movieNeedingPrediction]
-                        if(needMovieRating > 0):
-                            clusteredRatings.append(needMovieRating)
+                    if(clusterId+x < len(cluster_results)):
+                        surroundingCluster = cluster_results[clusterId + x]
+                        for scUser in surroundingCluster:
+                            needMovieRating = curUVs[scUser][movieNeedingPrediction]
+                            if(needMovieRating > 0):
+                                clusteredRatings.append(needMovieRating)
 
                 if len(clusteredRatings) == 0:
                     for x in range(0,5):
